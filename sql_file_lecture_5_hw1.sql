@@ -61,3 +61,4 @@ INSERT INTO carinfo VALUES
 ('C19', 'Hyundai Verna', 1497, 1300000.00, 7.0, '2025-05-04', '1019'),
 ('C20', 'Toyota Innova Crysta', 2393, 3000000.00, 12.0, '2025-05-11', '1020');
 
+SELECT * FROM carinfo;
