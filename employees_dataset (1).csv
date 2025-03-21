@@ -1,0 +1,1001 @@
+emp_id,first_name,last_name,gender,birth_date,hire_date,dept_name,title,salary
+1,Gabriel,Watson,M,1975-12-08,2016-09-03,Sales,Sales Executive,108837.42
+2,Derrick,Rodriguez,M,1973-10-11,2017-07-28,Engineering,Software Engineer,60087.9
+3,William,Caldwell,F,1994-03-13,2015-07-28,Admin,Office Administrator,73800.99
+4,Christopher,Bishop,F,1974-08-20,2015-05-30,Customer Support,Support Specialist,93719.51
+5,Sandy,Robertson,F,1991-04-09,2014-07-01,Engineering,Software Engineer,60011.15
+6,Patricia,Jones,F,1968-09-07,2005-04-09,Sales,Sales Executive,60213.51
+7,Daniel,Hill,F,1974-10-29,2018-02-25,Customer Support,Support Specialist,56580.84
+8,Lauren,Cline,M,1965-09-22,2021-09-06,IT,Data Scientist,88971.83
+9,Kelly,Thomas,F,1987-10-09,2020-02-24,Admin,Office Administrator,90630.4
+10,Nancy,Vazquez,M,1987-05-18,2012-03-09,HR,HR Manager,42505.85
+11,John,Salazar,M,1995-03-26,2019-06-17,Engineering,Software Engineer,54919.88
+12,John,Walker,F,2001-12-25,2005-11-26,Admin,Office Administrator,102318.13
+13,Vickie,Jefferson,F,1992-08-13,2020-11-09,HR,HR Manager,54870.88
+14,Lisa,Stewart,M,1986-07-11,2011-09-10,Operations,Operations Manager,96669.03
+15,Susan,Woods,M,1995-12-23,2016-02-08,Admin,Office Administrator,104109.16
+16,Diana,Butler,F,1977-06-04,2020-08-23,Engineering,Software Engineer,43984.27
+17,Tanya,Jackson,M,1977-02-01,2015-07-08,Customer Support,Support Specialist,78012.55
+18,Veronica,Robinson,F,1985-10-08,2011-12-16,Marketing,Marketing Specialist,89124.79
+19,Mark,Reyes,F,1972-04-26,2021-09-13,Customer Support,Support Specialist,89661.88
+20,Catherine,Hensley,M,1973-06-08,2007-09-04,Operations,Operations Manager,110505.1
+21,Jason,Harris,M,1964-06-14,2023-06-26,Engineering,Software Engineer,94952.92
+22,Kelly,Abbott,M,1976-06-20,2006-05-27,Operations,Operations Manager,88632.25
+23,Joanna,Spencer,M,1979-05-19,2015-01-03,Engineering,Software Engineer,92731.31
+24,Jeff,Allen,M,1967-01-22,2011-03-01,Sales,Sales Executive,79650.8
+25,Jacqueline,Weber,F,2002-03-25,2007-03-10,Operations,Operations Manager,85021.55
+26,Catherine,Smith,M,1988-02-08,2021-09-30,HR,HR Manager,71838.33
+27,Jennifer,Ramirez,F,1984-12-25,2006-12-14,Sales,Sales Executive,100089.6
+28,Michael,Johnson,M,1992-03-24,2023-10-18,Customer Support,Support Specialist,100907.15
+29,Stephen,Martin,M,1971-04-18,2018-12-06,IT,Data Scientist,76180.33
+30,Tyrone,Aguilar,F,1996-02-18,2013-05-17,Sales,Sales Executive,98414.51
+31,James,Ibarra,F,1984-11-17,2024-12-11,Marketing,Marketing Specialist,110663.24
+32,Charles,Moran,M,1974-10-07,2015-04-19,Marketing,Marketing Specialist,57786.86
+33,Theresa,Brady,F,1993-03-26,2011-10-19,Product,Product Manager,42459.8
+34,Jessica,Moore,F,1997-02-20,2010-08-05,Marketing,Marketing Specialist,74104.28
+35,Scott,Reed,M,2001-06-09,2016-11-09,Admin,Office Administrator,117840.44
+36,Mary,Welch,M,1997-04-04,2023-10-10,IT,Data Scientist,93471.38
+37,Chelsea,Rodgers,M,1993-12-23,2020-10-12,Engineering,Software Engineer,83479.35
+38,James,Hill,F,1971-06-21,2023-01-27,Engineering,Software Engineer,71985.72
+39,Christopher,Moore,F,1981-07-19,2010-07-10,Engineering,Software Engineer,113125.24
+40,Catherine,Garrett,M,1981-01-31,2020-09-27,HR,HR Manager,118812.23
+41,Brittany,Lawson,M,2002-01-29,2019-12-16,Sales,Sales Executive,58913.6
+42,Deborah,Clarke,F,1987-01-10,2023-07-09,Marketing,Marketing Specialist,53049.38
+43,Timothy,Morgan,M,1983-01-26,2015-07-22,Marketing,Marketing Specialist,58407.69
+44,Christopher,Brown,M,1996-06-14,2016-04-29,Finance,Financial Analyst,97523.22
+45,Jessica,Moore,F,1999-06-15,2012-03-12,IT,Data Scientist,72412.33
+46,Cheryl,Brown,F,1989-07-10,2020-08-06,Operations,Operations Manager,83055.17
+47,Kathleen,Hancock,F,2000-10-30,2013-02-19,Sales,Sales Executive,61312.53
+48,James,Campos,F,1972-12-11,2024-10-26,Admin,Office Administrator,86101.65
+49,Tammy,Williams,M,1974-08-10,2013-05-19,Finance,Financial Analyst,85842.16
+50,Mark,Johnson,F,1972-07-29,2016-11-24,HR,HR Manager,72613.73
+51,Victoria,Hale,F,1997-08-17,2019-03-14,Finance,Financial Analyst,49779.98
+52,Lauren,Roman,F,1967-09-18,2012-01-29,Operations,Operations Manager,70760.92
+53,Kevin,Richards,F,1965-11-29,2016-03-04,Customer Support,Support Specialist,114283.21
+54,Julie,Mills,M,1973-09-04,2015-02-21,Operations,Operations Manager,80821.04
+55,Jennifer,Vasquez,M,1979-01-18,2007-01-03,HR,HR Manager,84459.62
+56,Stephen,Santiago,M,1990-10-20,2011-01-28,IT,Data Scientist,52493.75
+57,Jenna,Salazar,M,1994-03-06,2013-05-03,Customer Support,Support Specialist,43244.6
+58,Kristy,Lang,M,1997-05-06,2023-12-21,IT,Data Scientist,51767.7
+59,Yolanda,Jackson,M,1985-01-15,2016-01-28,Sales,Sales Executive,96629.68
+60,Samantha,Thomas,F,1983-08-24,2025-02-20,Admin,Office Administrator,69132.96
+61,Randy,Martin,M,1967-02-27,2008-09-26,HR,HR Manager,40034.15
+62,David,Williamson,F,1970-05-13,2014-01-11,Operations,Operations Manager,88663.28
+63,Antonio,Ramsey,M,1973-06-03,2017-01-10,Sales,Sales Executive,47933.72
+64,Brittany,Ali,M,1993-12-27,2015-12-12,Sales,Sales Executive,85039.99
+65,William,Romero,F,1993-06-23,2020-06-22,Marketing,Marketing Specialist,99280.44
+66,Ryan,Wells,M,1982-11-03,2022-12-18,Product,Product Manager,82538.66
+67,Amanda,Spears,F,1967-01-04,2009-12-19,Sales,Sales Executive,41358.05
+68,Tanya,Anthony,F,1976-01-16,2014-10-13,Admin,Office Administrator,62144.04
+69,Eric,Hansen,M,1997-05-03,2022-07-14,Product,Product Manager,108004.02
+70,Amanda,Walker,F,1977-04-24,2011-02-11,Operations,Operations Manager,104344.78
+71,Michelle,Thomas,F,1982-03-21,2013-02-04,Sales,Sales Executive,107226.22
+72,Victoria,Brown,F,1978-10-28,2008-06-06,Sales,Sales Executive,71559.05
+73,Steven,Wilson,M,1982-08-02,2012-08-06,Sales,Sales Executive,108620.75
+74,David,Stein,M,1976-10-11,2017-08-28,HR,HR Manager,98229.61
+75,Anthony,Gallagher,M,1983-07-09,2009-01-07,Finance,Financial Analyst,87656.46
+76,Amy,Brown,F,1996-09-07,2011-11-02,HR,HR Manager,118825.47
+77,Melissa,Morris,F,1996-07-15,2021-04-28,Customer Support,Support Specialist,89967.91
+78,Amanda,Medina,M,1986-11-09,2020-05-24,Engineering,Software Engineer,49042.92
+79,Mckenzie,Wilson,M,1972-08-28,2021-06-19,Product,Product Manager,68207.85
+80,Latoya,Frank,M,2000-05-09,2024-04-19,Finance,Financial Analyst,107072.25
+81,Daniel,Carroll,M,1988-08-13,2021-09-21,Sales,Sales Executive,80362.78
+82,Robert,Parker,F,1989-06-03,2010-01-25,Engineering,Software Engineer,79400.71
+83,Michelle,Bailey,M,1978-07-04,2005-06-15,Admin,Office Administrator,71343.5
+84,Dylan,Jackson,M,1976-03-15,2009-04-02,IT,Data Scientist,64893.09
+85,Candice,Mcbride,M,1974-07-12,2019-10-08,Marketing,Marketing Specialist,85022.45
+86,Amy,Fields,F,2002-10-02,2012-04-26,Finance,Financial Analyst,71342.99
+87,Carlos,Cochran,M,1979-03-02,2023-07-27,Customer Support,Support Specialist,54789.63
+88,Jessica,Blanchard,M,1966-06-27,2007-09-28,IT,Data Scientist,96832.79
+89,Timothy,Carlson,M,1970-12-14,2013-01-23,IT,Data Scientist,110408.7
+90,Becky,Mccall,F,1995-08-23,2015-08-01,IT,Data Scientist,61526.82
+91,Tyler,Hess,F,1981-04-26,2008-08-31,IT,Data Scientist,96670.29
+92,Emily,Miller,M,1973-06-03,2005-08-31,Admin,Office Administrator,102050.29
+93,Lisa,Palmer,F,1973-09-03,2011-05-12,Sales,Sales Executive,87314.44
+94,Holly,Garrison,F,1995-08-17,2016-09-09,IT,Data Scientist,74769.44
+95,Corey,Graham,M,2001-03-11,2020-06-04,Engineering,Software Engineer,60119.72
+96,Margaret,Wheeler,M,2002-09-21,2015-08-26,Operations,Operations Manager,58103.29
+97,Darryl,Paul,M,2002-08-07,2007-07-25,Product,Product Manager,57622.49
+98,James,Caldwell,M,1970-11-06,2018-05-22,Sales,Sales Executive,42841.15
+99,Donald,Hughes,F,1994-11-04,2016-06-13,Customer Support,Support Specialist,101328.25
+100,Timothy,Anderson,F,1986-04-04,2013-07-26,Product,Product Manager,51916.43
+101,Craig,Thompson,F,1967-09-30,2011-10-07,Marketing,Marketing Specialist,69423.22
+102,Amanda,Baker,M,1980-12-05,2008-10-19,Product,Product Manager,78905.67
+103,Gary,Erickson,M,1988-02-28,2023-05-09,Operations,Operations Manager,45529.65
+104,Lauren,Donaldson,M,1978-03-17,2020-08-11,HR,HR Manager,92540.42
+105,Alex,Hall,M,1985-06-06,2010-04-18,Customer Support,Support Specialist,57108.17
+106,Suzanne,Allen,F,1973-04-29,2009-03-11,Product,Product Manager,83197.03
+107,Steven,Newman,M,1975-11-02,2015-01-20,Operations,Operations Manager,73766.52
+108,Kyle,James,M,1985-06-08,2009-11-14,HR,HR Manager,55940.13
+109,Ian,Turner,F,1995-08-16,2007-01-20,Sales,Sales Executive,72823.48
+110,Antonio,Perez,M,1993-11-16,2013-07-14,Customer Support,Support Specialist,113409.7
+111,Lynn,Barnett,F,1997-10-22,2021-02-09,Sales,Sales Executive,85793.81
+112,Ashley,Weber,F,1997-08-17,2019-02-13,Sales,Sales Executive,59795.77
+113,Walter,Porter,M,1999-06-08,2008-12-18,Product,Product Manager,40523.52
+114,Anna,Rocha,F,1968-12-02,2005-10-02,Customer Support,Support Specialist,59021.8
+115,Jennifer,Robinson,F,1991-09-18,2023-05-24,IT,Data Scientist,69971.87
+116,Michael,Green,M,1970-07-31,2023-06-30,Engineering,Software Engineer,80423.14
+117,Kim,Andersen,M,1984-09-08,2022-02-04,Finance,Financial Analyst,85889.14
+118,Karen,Foster,F,1979-07-12,2006-11-01,Finance,Financial Analyst,68167.09
+119,Thomas,Cline,F,1979-05-12,2024-12-16,Product,Product Manager,40066.06
+120,Nichole,Armstrong,F,1986-09-30,2020-05-01,Sales,Sales Executive,67736.65
+121,Andrew,Donovan,M,1978-02-04,2021-08-18,HR,HR Manager,116651.3
+122,Ashley,Jones,F,1989-10-02,2012-12-05,Engineering,Software Engineer,107203.4
+123,Dennis,Hamilton,M,1988-08-11,2014-03-28,Sales,Sales Executive,80920.84
+124,Cheryl,Leblanc,F,1976-12-25,2013-02-05,Product,Product Manager,73804.66
+125,Spencer,Snyder,M,1973-01-13,2012-03-16,IT,Data Scientist,61385.07
+126,Tracy,Brown,F,1987-03-21,2023-06-04,Engineering,Software Engineer,66194.35
+127,Paul,Reed,M,1991-05-20,2024-06-08,Product,Product Manager,46976.22
+128,Kevin,Hart,F,1984-11-28,2014-02-27,Finance,Financial Analyst,63177.46
+129,Michelle,Lee,M,1965-08-17,2018-03-09,Sales,Sales Executive,96260.29
+130,Sandra,King,M,1972-11-10,2024-11-02,IT,Data Scientist,75313.88
+131,Diana,Rowe,M,2002-06-10,2012-05-06,Sales,Sales Executive,98667.88
+132,Jeremy,Ho,M,1987-01-22,2015-09-17,Finance,Financial Analyst,105624.31
+133,Jeffrey,Frederick,M,1995-08-20,2007-04-15,Finance,Financial Analyst,43810.75
+134,Kimberly,Moore,F,1986-04-09,2006-03-13,Admin,Office Administrator,107070.73
+135,Anna,Yates,M,1987-10-20,2019-02-28,IT,Data Scientist,77581.7
+136,Becky,Williams,F,1989-06-25,2020-03-18,Operations,Operations Manager,88341.72
+137,Katherine,Beasley,F,1994-05-24,2020-06-08,Admin,Office Administrator,96575.98
+138,Audrey,Andrews,F,1969-04-22,2007-12-11,Sales,Sales Executive,74638.34
+139,Mitchell,Chaney,F,1974-12-07,2021-04-13,HR,HR Manager,77642.47
+140,Denise,Dickson,F,1988-10-30,2007-02-03,Customer Support,Support Specialist,95536.6
+141,Joseph,Clarke,F,2002-03-19,2017-11-18,Finance,Financial Analyst,93210.23
+142,Jessica,Lambert,F,1969-01-07,2018-01-07,Sales,Sales Executive,62485.96
+143,Megan,Wallace,F,1981-03-11,2013-11-30,HR,HR Manager,118661.5
+144,Victoria,Olson,F,1992-02-04,2015-09-22,Marketing,Marketing Specialist,45560.67
+145,Catherine,Alvarez,F,1988-11-22,2007-06-06,IT,Data Scientist,116919.63
+146,Sharon,Knapp,F,1965-11-14,2019-04-17,Operations,Operations Manager,52420.93
+147,Stephanie,Manning,M,1980-01-31,2020-10-29,HR,HR Manager,92985.29
+148,Jessica,Morrison,F,1985-09-17,2019-09-19,HR,HR Manager,88452.31
+149,Kayla,Ramirez,M,2002-08-23,2006-07-05,Marketing,Marketing Specialist,80348.8
+150,Dana,Blake,M,1997-12-14,2012-05-26,IT,Data Scientist,94907.77
+151,Rachel,Mercado,F,1978-04-11,2013-12-13,Marketing,Marketing Specialist,108927.64
+152,Natalie,Molina,F,1974-07-30,2019-05-31,Engineering,Software Engineer,112498.19
+153,Mark,Morris,F,1970-08-17,2008-12-23,Operations,Operations Manager,59441.99
+154,Joel,Williams,M,1967-12-25,2018-03-19,HR,HR Manager,68096.03
+155,Nicholas,Hunter,F,1983-10-29,2014-09-13,Sales,Sales Executive,41317.58
+156,Travis,Gordon,M,1982-10-27,2023-07-14,Operations,Operations Manager,109737.27
+157,Samantha,Vasquez,M,1971-04-07,2012-09-16,Sales,Sales Executive,57930.34
+158,Michelle,Henderson,F,1970-02-16,2007-08-17,Product,Product Manager,63594.03
+159,Christopher,Anderson,M,1982-09-21,2008-10-06,Engineering,Software Engineer,75230.53
+160,Cynthia,Davis,M,1971-10-20,2020-04-12,Product,Product Manager,81985.1
+161,Colton,Howell,F,1971-05-06,2024-04-22,Marketing,Marketing Specialist,42711.15
+162,Michael,Oconnor,M,1966-07-18,2023-05-10,Admin,Office Administrator,57180.08
+163,Eric,Lozano,F,1979-11-24,2020-08-30,Finance,Financial Analyst,79875.16
+164,Danielle,Fletcher,M,1967-05-24,2024-05-02,Customer Support,Support Specialist,88880.0
+165,Richard,Smith,M,1969-02-07,2024-08-22,Customer Support,Support Specialist,69407.05
+166,Sharon,Ayers,F,1970-05-17,2013-09-23,Finance,Financial Analyst,49523.12
+167,Lisa,Leach,F,1969-11-04,2009-08-16,HR,HR Manager,114155.1
+168,Arthur,Adams,M,1985-07-24,2017-02-09,Engineering,Software Engineer,90647.54
+169,Lisa,Russell,M,1972-09-15,2014-07-04,Product,Product Manager,66972.8
+170,Sharon,Rosario,F,1980-08-15,2023-11-13,HR,HR Manager,80196.4
+171,Lisa,Butler,F,1983-04-28,2016-12-29,Operations,Operations Manager,92165.03
+172,Kayla,Hamilton,F,1967-07-18,2024-05-14,Sales,Sales Executive,109604.23
+173,Joan,Rogers,F,1991-09-03,2011-12-22,Finance,Financial Analyst,55843.44
+174,Makayla,Mason,M,1973-05-14,2008-07-15,Product,Product Manager,99977.13
+175,Andrea,Long,M,2000-09-01,2007-08-02,Customer Support,Support Specialist,90683.32
+176,Pamela,Chan,M,2003-01-23,2008-05-13,Operations,Operations Manager,105314.65
+177,Jennifer,Grant,F,2002-12-22,2013-01-12,Operations,Operations Manager,91194.09
+178,Brittany,Phillips,M,1971-02-16,2020-11-23,Sales,Sales Executive,45246.63
+179,Gary,Patrick,M,1971-11-03,2012-04-18,Operations,Operations Manager,86743.95
+180,Elizabeth,Jackson,F,1971-04-11,2017-01-08,Marketing,Marketing Specialist,80790.07
+181,Alexis,Smith,M,1986-02-24,2021-12-19,Operations,Operations Manager,114504.56
+182,Jacob,Smith,F,1981-03-05,2023-09-11,Finance,Financial Analyst,112396.6
+183,Carolyn,Farrell,F,1974-02-11,2006-08-07,IT,Data Scientist,78649.71
+184,Nicole,Sweeney,F,2002-11-15,2022-09-04,IT,Data Scientist,86025.82
+185,Aaron,Keller,F,1977-07-20,2017-09-12,HR,HR Manager,98057.92
+186,Larry,Wood,F,1965-12-07,2016-01-31,Sales,Sales Executive,68720.36
+187,Rhonda,Fuentes,M,1988-10-07,2024-07-30,Finance,Financial Analyst,111495.9
+188,Danielle,Walton,F,1994-11-30,2017-01-14,Customer Support,Support Specialist,103975.97
+189,Joshua,Gonzalez,M,2002-07-17,2015-09-22,Operations,Operations Manager,118232.08
+190,Jodi,Gonzales,F,1972-05-15,2018-03-30,Admin,Office Administrator,113268.32
+191,Ashley,Burton,M,1981-12-20,2007-11-15,Operations,Operations Manager,115574.23
+192,John,Cox,F,1978-08-22,2013-12-30,Admin,Office Administrator,108765.77
+193,Brandon,Stephens,M,1969-01-20,2024-03-07,Sales,Sales Executive,61151.52
+194,Robin,Curry,F,1980-03-12,2020-11-12,Product,Product Manager,65633.94
+195,Janice,Baker,M,1967-09-21,2023-05-27,Sales,Sales Executive,51509.5
+196,Ryan,Frazier,F,2002-01-12,2018-10-01,Customer Support,Support Specialist,74268.88
+197,Beverly,Smith,F,1996-08-18,2011-09-17,Marketing,Marketing Specialist,106959.4
+198,Jeremy,Cruz,F,1994-06-07,2023-10-22,Operations,Operations Manager,109528.53
+199,Joe,Schmidt,M,1997-10-21,2023-01-22,IT,Data Scientist,98684.51
+200,Rebecca,Murphy,F,2000-12-10,2005-10-10,Marketing,Marketing Specialist,57815.83
+201,Carolyn,Dunn,M,2000-03-14,2014-05-31,Sales,Sales Executive,119311.85
+202,James,Simpson,F,1965-04-23,2017-04-03,Customer Support,Support Specialist,97340.75
+203,David,Graham,F,1993-06-18,2012-09-01,Engineering,Software Engineer,71612.68
+204,Thomas,Murphy,F,2001-09-07,2010-06-05,HR,HR Manager,94618.33
+205,Alex,Munoz,M,1992-02-02,2010-12-13,Admin,Office Administrator,75652.09
+206,Pamela,Perkins,M,1975-11-29,2018-07-30,Sales,Sales Executive,63173.67
+207,Antonio,Meyer,M,1999-09-19,2013-04-04,HR,HR Manager,81601.62
+208,Austin,Carter,F,1995-03-22,2017-09-28,Product,Product Manager,53791.42
+209,Roy,Knight,M,1975-09-06,2005-12-25,Finance,Financial Analyst,59476.89
+210,Jordan,Mckenzie,M,1994-06-18,2017-11-24,Engineering,Software Engineer,49894.68
+211,Robert,Moody,M,1976-06-23,2015-02-20,Customer Support,Support Specialist,98720.25
+212,Lawrence,Clarke,F,1983-12-02,2015-08-27,Engineering,Software Engineer,40371.85
+213,Christina,Ortiz,F,1965-04-18,2015-09-14,Operations,Operations Manager,103030.39
+214,Caroline,Brown,F,1982-08-27,2010-12-20,IT,Data Scientist,117222.69
+215,Jesse,Ibarra,M,1975-11-27,2021-11-26,Operations,Operations Manager,90321.59
+216,Carlos,Avery,F,1968-09-17,2015-09-25,Finance,Financial Analyst,77357.06
+217,Christopher,Weiss,M,1976-01-12,2013-02-20,Finance,Financial Analyst,79902.12
+218,Scott,Ingram,M,1988-01-20,2018-02-26,Admin,Office Administrator,107808.39
+219,James,Cruz,M,1969-09-01,2007-05-03,Marketing,Marketing Specialist,56731.3
+220,Joseph,Hood,M,1969-07-19,2022-08-09,Finance,Financial Analyst,77018.05
+221,Chelsea,Stark,F,1967-12-25,2024-11-10,Product,Product Manager,104641.54
+222,Kevin,Mitchell,F,1986-12-19,2015-09-21,Customer Support,Support Specialist,56015.82
+223,Ashlee,Calderon,M,1966-07-11,2019-03-07,Sales,Sales Executive,53680.92
+224,Cynthia,Jensen,F,1992-09-11,2017-04-18,HR,HR Manager,54063.1
+225,Andrea,Ross,F,1971-06-24,2022-09-21,IT,Data Scientist,93858.63
+226,Angela,Owens,M,1969-01-30,2007-05-16,Admin,Office Administrator,83722.36
+227,Kevin,Ware,M,1977-10-09,2019-06-05,HR,HR Manager,107366.32
+228,Kimberly,Clark,M,1988-06-24,2009-04-08,Customer Support,Support Specialist,91282.37
+229,Rebecca,Vargas,F,1981-01-04,2024-01-06,Engineering,Software Engineer,90461.85
+230,Justin,Kim,F,2003-01-29,2019-05-23,IT,Data Scientist,78357.57
+231,Judy,Barber,F,1978-08-31,2015-03-01,Admin,Office Administrator,112836.7
+232,Martin,Barber,F,1991-03-27,2024-03-25,HR,HR Manager,100843.62
+233,Amy,Robbins,M,1970-01-31,2011-08-10,Marketing,Marketing Specialist,117623.59
+234,Gina,Michael,M,1999-02-14,2023-09-10,HR,HR Manager,54072.32
+235,Edward,Barrett,F,1989-01-08,2023-06-12,Operations,Operations Manager,61825.43
+236,Troy,Stephens,F,1971-06-05,2009-10-24,Product,Product Manager,72595.86
+237,Sarah,Jones,F,1981-02-02,2010-08-12,Product,Product Manager,88511.19
+238,Katherine,Ashley,F,1990-03-26,2010-05-22,Operations,Operations Manager,68914.71
+239,Zachary,Medina,M,1996-05-15,2010-07-05,Admin,Office Administrator,61315.9
+240,Linda,Fernandez,M,1987-06-27,2015-05-18,Operations,Operations Manager,78016.76
+241,Gregory,Rosales,F,1970-01-14,2016-08-23,Admin,Office Administrator,113854.29
+242,Michael,Hall,M,1978-06-05,2006-09-17,Customer Support,Support Specialist,63919.53
+243,Valerie,Gilmore,F,1994-09-23,2021-07-08,Engineering,Software Engineer,86724.22
+244,Steven,Jenkins,M,1969-04-07,2019-05-17,Sales,Sales Executive,64723.28
+245,Julie,Woods,M,1981-02-12,2015-07-06,Customer Support,Support Specialist,68990.58
+246,Anna,Berry,M,1976-11-26,2016-11-16,Sales,Sales Executive,101813.72
+247,Matthew,Anderson,F,1969-03-19,2015-10-19,IT,Data Scientist,108157.31
+248,Shirley,Robinson,F,1974-10-01,2024-07-25,IT,Data Scientist,57805.39
+249,Patrick,Moore,F,1970-05-23,2016-10-03,Operations,Operations Manager,52098.19
+250,Erin,Mathews,M,2000-04-27,2010-12-03,Product,Product Manager,99067.39
+251,Joanna,Cameron,F,1982-04-30,2023-12-19,Sales,Sales Executive,75303.76
+252,Derrick,Lopez,F,1991-12-28,2022-12-06,Operations,Operations Manager,58083.29
+253,Alan,Walker,F,1977-03-19,2013-03-03,Engineering,Software Engineer,49829.62
+254,Kevin,Young,F,1970-01-11,2008-03-14,Product,Product Manager,52189.66
+255,Terrence,Rojas,F,2000-12-10,2006-11-25,Engineering,Software Engineer,42253.05
+256,Mark,Hurst,M,1990-07-10,2016-12-01,Admin,Office Administrator,109741.36
+257,Scott,Evans,F,1979-07-18,2025-03-14,HR,HR Manager,117642.26
+258,Max,Ramirez,F,1976-04-18,2010-03-13,Product,Product Manager,97903.75
+259,Jessica,Flynn,M,2001-03-26,2016-12-03,Sales,Sales Executive,66492.46
+260,Scott,Wang,F,1971-05-09,2015-06-23,Operations,Operations Manager,51432.71
+261,Ana,Reid,F,1990-04-20,2022-09-14,Customer Support,Support Specialist,67360.25
+262,Kevin,Burch,F,1992-06-22,2013-03-17,Operations,Operations Manager,107296.13
+263,Trevor,Dorsey,F,1976-11-16,2007-03-17,Operations,Operations Manager,101500.95
+264,Virginia,Baldwin,M,1967-02-16,2020-10-22,Customer Support,Support Specialist,82296.88
+265,Manuel,Crawford,M,1989-06-03,2006-01-12,Admin,Office Administrator,75468.68
+266,Randall,Wilson,M,1979-12-18,2016-03-23,Admin,Office Administrator,93027.66
+267,Carla,Park,M,2003-01-02,2009-08-02,Operations,Operations Manager,41588.86
+268,Dean,West,M,1999-03-31,2006-11-26,Operations,Operations Manager,51179.93
+269,Noah,Rodriguez,M,1978-12-02,2024-06-29,Finance,Financial Analyst,63248.31
+270,Matthew,Zuniga,F,1981-07-02,2011-04-28,Operations,Operations Manager,57363.55
+271,Logan,Boone,F,1970-12-02,2013-03-20,Product,Product Manager,114887.76
+272,Marcus,Joseph,F,1977-07-16,2007-01-23,IT,Data Scientist,87890.44
+273,Teresa,Brown,F,1965-11-28,2013-12-01,Finance,Financial Analyst,80029.01
+274,James,Wheeler,F,1975-12-20,2011-09-30,Operations,Operations Manager,99058.15
+275,Courtney,Guerra,F,2002-05-25,2020-06-05,HR,HR Manager,42915.99
+276,Amy,Avila,F,1997-06-08,2017-10-21,Product,Product Manager,40213.31
+277,Damon,Smith,M,1998-03-31,2023-08-22,Customer Support,Support Specialist,78307.83
+278,Tyler,Newman,F,1983-01-11,2009-10-29,IT,Data Scientist,70717.26
+279,Andrew,Simon,M,1994-04-20,2024-02-01,Product,Product Manager,62312.08
+280,Norman,Swanson,F,1990-05-04,2015-03-15,HR,HR Manager,83981.74
+281,Phillip,Jimenez,F,1998-08-15,2006-10-16,Marketing,Marketing Specialist,47456.06
+282,Stacy,Miller,F,1970-09-30,2017-12-29,Sales,Sales Executive,59042.08
+283,Katelyn,Reed,M,1995-02-24,2018-05-04,Sales,Sales Executive,110680.9
+284,David,Ramirez,F,1977-04-29,2023-12-28,Engineering,Software Engineer,81543.38
+285,Paul,Morgan,F,1979-01-07,2022-02-20,IT,Data Scientist,83111.07
+286,Nicholas,Adams,M,1989-03-12,2010-06-28,Operations,Operations Manager,108794.32
+287,Edwin,Barnes,F,1980-06-18,2020-04-26,Finance,Financial Analyst,111933.64
+288,Denise,Miller,M,1999-01-17,2020-05-14,Engineering,Software Engineer,106116.9
+289,Jimmy,Burns,F,1986-03-10,2007-09-24,Customer Support,Support Specialist,78358.8
+290,Samantha,Ortiz,M,1979-06-05,2006-06-04,Finance,Financial Analyst,52321.72
+291,Madison,Massey,M,1988-11-10,2014-02-26,Marketing,Marketing Specialist,114987.7
+292,Veronica,Davis,M,1973-07-08,2024-10-19,Customer Support,Support Specialist,114016.95
+293,Frank,Dunn,F,1986-09-25,2020-09-08,IT,Data Scientist,77622.44
+294,Theresa,Wheeler,F,1966-11-01,2018-06-03,Customer Support,Support Specialist,77116.54
+295,Joel,Moore,F,1998-02-02,2006-02-22,Sales,Sales Executive,69472.59
+296,William,Lopez,F,1982-03-13,2007-03-07,HR,HR Manager,44481.61
+297,Jeffery,Anderson,F,1991-07-19,2007-07-13,Finance,Financial Analyst,84137.23
+298,David,Clark,F,1978-02-15,2016-07-19,Marketing,Marketing Specialist,103376.99
+299,Teresa,Mercer,F,1987-07-03,2022-09-10,Customer Support,Support Specialist,117422.62
+300,Sara,Gibson,F,1968-12-26,2009-06-24,IT,Data Scientist,65535.02
+301,Michael,White,F,1970-09-10,2005-07-03,Marketing,Marketing Specialist,70573.29
+302,Sarah,Carey,F,2002-08-27,2023-12-04,Customer Support,Support Specialist,104865.48
+303,Rachel,Jackson,M,1980-02-13,2010-12-09,Customer Support,Support Specialist,61920.84
+304,David,Hamilton,F,1993-06-25,2011-03-21,Product,Product Manager,82586.35
+305,Nicholas,Smith,F,1983-11-25,2017-12-28,IT,Data Scientist,80652.56
+306,Elizabeth,Morgan,F,1969-08-19,2010-03-25,Admin,Office Administrator,50604.61
+307,Stephen,Smith,F,1988-12-19,2006-02-03,Customer Support,Support Specialist,119673.65
+308,Rebecca,Lee,F,2001-11-24,2016-10-20,Operations,Operations Manager,69198.84
+309,Juan,Bradford,F,1967-10-28,2017-06-09,Admin,Office Administrator,109576.91
+310,Matthew,Cook,M,2000-03-27,2008-02-14,Customer Support,Support Specialist,88615.77
+311,Amy,Ramos,M,2001-02-07,2009-06-06,Admin,Office Administrator,51940.91
+312,Regina,Hernandez,F,1983-07-13,2014-04-11,Admin,Office Administrator,56775.01
+313,John,Palmer,M,1991-12-31,2010-11-08,Sales,Sales Executive,59570.87
+314,Dan,Jacobson,M,1989-07-16,2006-11-30,Product,Product Manager,74371.77
+315,Cynthia,Burnett,F,1992-04-25,2011-12-14,Admin,Office Administrator,53885.47
+316,Timothy,Richardson,F,1993-07-16,2016-12-24,Marketing,Marketing Specialist,111138.53
+317,Michaela,Lambert,M,1991-11-30,2014-03-30,HR,HR Manager,108455.01
+318,Kenneth,Cain,F,1975-04-26,2018-11-16,HR,HR Manager,99904.29
+319,Thomas,Reyes,F,1977-06-15,2008-03-05,HR,HR Manager,95809.05
+320,Catherine,Smith,F,1981-10-21,2007-09-10,HR,HR Manager,113662.65
+321,Janice,Cruz,M,1989-10-09,2022-12-08,Finance,Financial Analyst,92555.91
+322,Tiffany,Hicks,F,1978-08-17,2022-11-10,Sales,Sales Executive,45063.15
+323,Jody,Lane,M,1980-01-28,2007-05-02,Sales,Sales Executive,85036.15
+324,Todd,Howell,F,1979-12-23,2006-09-12,Product,Product Manager,43512.32
+325,Matthew,Nelson,F,1999-12-29,2019-04-04,Customer Support,Support Specialist,58482.59
+326,Emily,Howard,F,1995-05-03,2011-01-15,Marketing,Marketing Specialist,90398.98
+327,Amanda,Wells,M,1984-04-10,2016-12-15,Sales,Sales Executive,103084.55
+328,Victoria,Callahan,M,1969-08-04,2016-07-24,Admin,Office Administrator,108753.45
+329,Nathan,Murray,M,1997-02-26,2015-05-18,Admin,Office Administrator,66229.53
+330,Jessica,Duncan,F,1995-03-21,2019-12-26,Product,Product Manager,105988.93
+331,Annette,Nguyen,F,1998-09-13,2014-01-21,Operations,Operations Manager,117776.82
+332,Stephanie,White,M,1964-08-05,2015-10-29,Sales,Sales Executive,105427.8
+333,Sharon,Dunn,F,1984-06-06,2008-12-27,Sales,Sales Executive,119686.31
+334,Philip,Hall,F,1974-08-20,2024-04-03,IT,Data Scientist,115662.16
+335,Jessica,Cole,M,1966-07-24,2007-06-13,HR,HR Manager,65350.03
+336,Lori,Gomez,M,1966-01-03,2013-10-01,Admin,Office Administrator,86590.79
+337,Paul,Jenkins,F,1971-08-07,2012-03-25,Sales,Sales Executive,107587.59
+338,Maria,King,M,1988-01-29,2024-12-02,Customer Support,Support Specialist,52646.7
+339,Michael,Robertson,M,1997-06-17,2023-05-26,Product,Product Manager,93302.84
+340,Tyler,Thomas,F,1979-06-09,2007-01-02,Admin,Office Administrator,98451.93
+341,Luis,Harrison,F,1994-03-27,2013-07-28,Sales,Sales Executive,115218.01
+342,Bobby,Willis,F,2002-01-20,2018-12-15,Engineering,Software Engineer,66147.24
+343,Samantha,Garcia,M,1979-06-25,2010-09-13,Engineering,Software Engineer,82589.88
+344,Brett,Day,M,1987-06-09,2022-08-08,Operations,Operations Manager,96432.84
+345,Elizabeth,Frazier,M,1972-01-29,2020-06-22,Marketing,Marketing Specialist,66923.28
+346,Anthony,Vega,M,1976-12-04,2022-12-29,Engineering,Software Engineer,41498.36
+347,James,Byrd,M,2000-12-10,2020-01-22,Engineering,Software Engineer,61575.25
+348,Valerie,Foster,M,1983-08-15,2008-05-27,Customer Support,Support Specialist,90113.6
+349,Chris,Anderson,F,1994-07-26,2019-05-28,HR,HR Manager,112784.32
+350,Kelli,Herman,F,1983-07-25,2017-05-01,Operations,Operations Manager,81734.44
+351,Kevin,Allen,M,1987-04-23,2020-01-14,Sales,Sales Executive,112168.27
+352,Tanya,Adkins,M,2002-10-17,2014-02-16,Engineering,Software Engineer,65026.72
+353,Alisha,Roberts,F,2002-06-15,2017-03-20,Product,Product Manager,82326.44
+354,Barbara,Hawkins,F,1973-11-18,2015-12-20,Operations,Operations Manager,84459.65
+355,Jeffrey,Moore,F,1995-04-08,2012-01-10,Sales,Sales Executive,41835.11
+356,David,Ross,M,1982-07-16,2013-04-18,Admin,Office Administrator,56315.24
+357,James,Davis,M,1975-11-28,2009-03-22,IT,Data Scientist,47800.39
+358,Heather,Kennedy,F,2001-12-20,2008-04-30,Engineering,Software Engineer,68917.38
+359,James,Clark,F,2002-07-11,2010-05-01,HR,HR Manager,57264.22
+360,Lori,Summers,F,1997-02-01,2021-01-26,Engineering,Software Engineer,89948.37
+361,Stacie,Bradley,M,1990-09-23,2014-05-12,IT,Data Scientist,82869.46
+362,Juan,Evans,F,1996-05-19,2013-02-11,Product,Product Manager,88780.65
+363,Ashlee,Blackwell,F,1995-07-15,2016-02-13,Sales,Sales Executive,55490.7
+364,Mary,Weaver,F,1981-06-01,2024-03-05,Admin,Office Administrator,48833.55
+365,Carlos,Jones,F,1981-12-10,2008-04-20,Operations,Operations Manager,44396.93
+366,Lauren,Gibbs,M,1973-03-10,2007-12-05,Operations,Operations Manager,77887.83
+367,Cindy,Holmes,F,1973-11-11,2022-04-05,Operations,Operations Manager,71069.68
+368,Julie,Garcia,F,1989-03-23,2005-10-24,Operations,Operations Manager,54194.36
+369,Justin,Gilbert,M,1965-05-24,2023-06-20,Operations,Operations Manager,88124.89
+370,Michael,Smith,M,1974-08-12,2018-08-09,Sales,Sales Executive,88765.03
+371,Tiffany,Navarro,F,1999-11-19,2024-11-18,Admin,Office Administrator,92214.52
+372,Kelsey,Parker,F,1986-11-28,2018-12-14,Customer Support,Support Specialist,113728.97
+373,Brittany,Hudson,M,1983-03-24,2017-06-10,Engineering,Software Engineer,93072.11
+374,Angela,Jones,F,1983-12-02,2005-09-13,IT,Data Scientist,91171.31
+375,Chad,Flores,M,1983-05-26,2014-09-27,Sales,Sales Executive,77954.29
+376,Christine,Pittman,F,1987-02-12,2021-07-16,Sales,Sales Executive,113492.97
+377,Samuel,Higgins,F,1978-04-04,2018-01-11,IT,Data Scientist,88401.11
+378,Patricia,Jackson,M,1976-08-18,2007-01-07,Sales,Sales Executive,93344.66
+379,Benjamin,Perez,F,1979-11-14,2017-12-28,Engineering,Software Engineer,75340.01
+380,Michael,Gonzalez,F,1987-03-19,2014-06-21,Operations,Operations Manager,87679.23
+381,Sarah,Hayes,M,1971-06-21,2018-10-04,Operations,Operations Manager,74906.91
+382,Danielle,Stewart,M,1997-12-19,2007-06-18,Engineering,Software Engineer,101957.04
+383,Stephanie,Marshall,F,1996-11-07,2009-03-15,Admin,Office Administrator,68662.59
+384,Charles,Ortiz,M,1984-05-05,2024-12-01,HR,HR Manager,93753.46
+385,Joseph,Olson,M,1968-09-08,2025-02-05,Customer Support,Support Specialist,73545.48
+386,Victor,Cain,F,1977-02-04,2015-06-09,Admin,Office Administrator,101827.8
+387,Shari,Nash,F,1998-08-23,2024-04-29,Finance,Financial Analyst,99925.53
+388,Todd,Berg,F,1984-08-13,2023-03-20,Engineering,Software Engineer,99122.21
+389,Jasmine,Simmons,F,1989-12-01,2006-08-02,Sales,Sales Executive,40244.62
+390,Stacie,Smith,M,1974-08-31,2016-01-01,IT,Data Scientist,40504.08
+391,Whitney,Lane,M,1995-09-29,2020-04-03,Customer Support,Support Specialist,59635.58
+392,Alexis,Diaz,F,1978-08-26,2013-07-03,HR,HR Manager,60066.82
+393,Kathryn,Waters,F,1971-11-05,2024-08-29,Customer Support,Support Specialist,90993.85
+394,Gina,Snyder,M,2001-08-22,2024-08-22,Product,Product Manager,70468.4
+395,Lisa,Perez,F,1970-01-24,2016-07-13,HR,HR Manager,60305.25
+396,Wendy,James,F,1968-01-28,2021-03-25,Sales,Sales Executive,55287.76
+397,Suzanne,Smith,M,1980-02-08,2010-07-25,Marketing,Marketing Specialist,68280.16
+398,Alexander,Tucker,M,1968-07-30,2017-12-11,Engineering,Software Engineer,111320.83
+399,Jessica,Lawson,M,1973-10-11,2008-03-18,Operations,Operations Manager,43460.42
+400,James,Kelly,M,1996-05-17,2006-02-16,Marketing,Marketing Specialist,105339.41
+401,Michelle,Edwards,F,1977-07-31,2017-07-30,Customer Support,Support Specialist,59181.02
+402,Tammy,Rivers,M,1971-08-16,2020-01-27,IT,Data Scientist,105887.87
+403,Kristina,Mitchell,F,1987-01-22,2019-02-03,Sales,Sales Executive,76271.95
+404,Thomas,Lee,F,1998-12-18,2010-10-12,Admin,Office Administrator,41039.62
+405,Jennifer,Jones,F,2000-04-05,2020-03-01,Customer Support,Support Specialist,117086.82
+406,Meredith,Whitaker,M,1972-06-16,2016-10-30,Admin,Office Administrator,50518.76
+407,Bobby,Hunter,M,1986-02-09,2009-11-12,HR,HR Manager,60032.65
+408,Linda,Gonzalez,F,1971-03-30,2017-09-23,Marketing,Marketing Specialist,52215.65
+409,Barbara,Brown,F,2000-01-29,2016-03-15,Admin,Office Administrator,81138.73
+410,Jeremy,Lopez,F,1977-06-28,2012-09-07,Sales,Sales Executive,64402.68
+411,Alicia,Blackburn,M,1992-10-23,2006-10-14,HR,HR Manager,109267.0
+412,Joe,Mcfarland,F,1986-12-25,2018-08-03,HR,HR Manager,41112.95
+413,Kathleen,Clements,M,1978-09-25,2012-01-08,Customer Support,Support Specialist,81212.45
+414,Joseph,Parker,F,1974-04-03,2016-06-22,Product,Product Manager,86135.8
+415,Amanda,Scott,M,1987-01-12,2008-07-15,Admin,Office Administrator,108962.25
+416,Paul,Ball,M,1983-09-07,2008-07-12,Operations,Operations Manager,40189.83
+417,Timothy,Hughes,M,1992-12-09,2006-12-15,Product,Product Manager,109823.38
+418,Kathleen,Short,M,1998-09-20,2018-06-20,Sales,Sales Executive,90191.56
+419,Sarah,Stone,F,1964-12-02,2007-01-14,Customer Support,Support Specialist,82967.76
+420,Maureen,Lewis,M,1993-03-23,2005-04-21,Finance,Financial Analyst,98287.55
+421,Mark,Villa,M,1978-10-12,2017-08-10,Admin,Office Administrator,58494.8
+422,Scott,Cain,M,1995-04-29,2020-09-25,Admin,Office Administrator,72517.01
+423,Alyssa,Hardin,M,1964-09-16,2017-02-10,Product,Product Manager,86712.98
+424,Gregory,Solomon,F,1991-08-20,2012-02-17,Engineering,Software Engineer,41266.3
+425,Jennifer,Torres,F,1978-12-20,2018-05-10,Sales,Sales Executive,118261.23
+426,Steven,Short,M,1982-11-05,2010-01-24,HR,HR Manager,117827.91
+427,Jeanette,Stuart,M,1970-09-17,2023-12-31,HR,HR Manager,71594.09
+428,Vanessa,Cordova,M,1972-03-19,2020-02-25,IT,Data Scientist,95776.51
+429,Donna,Hernandez,M,1970-03-14,2005-05-25,Sales,Sales Executive,109797.73
+430,Herbert,Bennett,M,1994-04-20,2013-06-11,Sales,Sales Executive,63668.61
+431,Cheryl,Smith,F,1988-10-05,2011-10-13,Finance,Financial Analyst,93766.36
+432,James,Combs,M,1984-11-01,2019-01-31,Sales,Sales Executive,65996.25
+433,Richard,Rivera,F,1980-08-12,2025-03-16,Marketing,Marketing Specialist,42345.4
+434,John,Jones,F,1985-07-05,2013-07-27,Marketing,Marketing Specialist,66009.49
+435,Stephen,Park,M,1983-10-09,2009-06-14,Admin,Office Administrator,47047.43
+436,Aaron,Harper,M,1968-03-19,2006-11-24,Customer Support,Support Specialist,64399.73
+437,Alexander,Booker,F,1991-03-07,2015-12-11,Finance,Financial Analyst,49484.43
+438,Ronnie,Jones,M,1995-02-15,2013-06-18,Operations,Operations Manager,55036.55
+439,Jennifer,Stevens,F,1980-06-11,2007-07-13,Engineering,Software Engineer,117322.0
+440,Jeffrey,Jones,M,1987-01-02,2011-03-23,Marketing,Marketing Specialist,101350.44
+441,Brian,Dawson,M,1982-01-31,2006-10-28,Sales,Sales Executive,88109.3
+442,Kevin,Sanchez,F,1971-10-23,2017-09-02,IT,Data Scientist,64592.05
+443,John,Fry,F,1971-08-20,2006-06-05,Admin,Office Administrator,45501.59
+444,Ricardo,Gibson,F,1967-08-08,2016-05-29,IT,Data Scientist,51455.24
+445,Samuel,Herman,F,2002-11-30,2017-09-04,Engineering,Software Engineer,82822.42
+446,Jade,Lewis,M,1969-06-22,2014-05-12,Operations,Operations Manager,101241.11
+447,Aaron,Baker,F,1995-11-15,2007-12-29,Marketing,Marketing Specialist,111936.32
+448,Lauren,Shaw,F,1988-07-20,2014-04-28,Finance,Financial Analyst,77380.52
+449,Jeffrey,Shaffer,M,1982-04-27,2013-04-17,Finance,Financial Analyst,44468.45
+450,Tabitha,Day,F,1965-10-26,2009-05-07,Sales,Sales Executive,68279.05
+451,Nancy,Martinez,F,1973-01-26,2023-01-16,Admin,Office Administrator,78819.24
+452,David,Brown,F,1978-01-03,2012-06-16,IT,Data Scientist,42923.82
+453,Daniel,Andrade,M,1988-08-02,2011-02-10,IT,Data Scientist,104395.52
+454,Tyler,Chavez,M,1989-06-07,2023-09-04,Marketing,Marketing Specialist,112534.68
+455,Jose,Reed,F,1973-07-31,2023-06-23,IT,Data Scientist,107978.14
+456,Kelly,Hudson,M,1980-02-01,2008-07-29,IT,Data Scientist,105891.04
+457,Diane,Fisher,F,1986-08-14,2013-02-16,Customer Support,Support Specialist,67618.4
+458,William,Turner,F,1992-01-23,2024-02-18,Engineering,Software Engineer,110218.02
+459,Allison,Sanchez,F,1973-02-27,2023-03-24,Operations,Operations Manager,78141.83
+460,Maurice,James,F,1965-09-23,2016-12-30,IT,Data Scientist,68600.03
+461,William,Palmer,M,1978-12-11,2005-06-22,Product,Product Manager,56008.57
+462,Stephanie,Macdonald,M,1972-04-08,2013-02-23,Sales,Sales Executive,103573.1
+463,John,Dunn,F,1978-04-07,2019-12-10,Admin,Office Administrator,116143.68
+464,Brandon,Rice,M,1986-02-01,2008-03-15,Admin,Office Administrator,74904.09
+465,Nicole,Smith,M,1972-02-26,2017-08-20,Marketing,Marketing Specialist,106890.47
+466,Steven,Smith,M,1973-03-05,2011-06-11,Engineering,Software Engineer,101397.93
+467,John,Wyatt,F,1998-11-10,2015-05-18,Operations,Operations Manager,91031.39
+468,Jonathan,Oliver,M,1996-05-28,2008-07-27,Engineering,Software Engineer,40859.98
+469,Kristen,Obrien,M,1981-12-13,2022-02-21,Product,Product Manager,88205.6
+470,Hannah,Hayes,M,1989-12-26,2007-02-10,Marketing,Marketing Specialist,57458.25
+471,Tanya,Reed,F,1986-07-26,2020-01-28,Admin,Office Administrator,118119.38
+472,Joseph,Guerra,F,1986-01-19,2009-07-08,IT,Data Scientist,41275.33
+473,Carol,Roach,M,1982-04-15,2023-12-06,Finance,Financial Analyst,84852.11
+474,Justin,Brock,M,1975-09-02,2012-03-14,Sales,Sales Executive,57702.1
+475,Lawrence,Medina,M,2001-07-27,2005-06-30,Customer Support,Support Specialist,88887.15
+476,Jeffery,Mcfarland,F,1989-03-13,2006-07-24,Marketing,Marketing Specialist,96544.21
+477,Juan,Powell,F,1988-12-30,2015-04-16,Marketing,Marketing Specialist,62421.49
+478,Ronald,Brooks,F,2002-06-15,2016-08-14,Customer Support,Support Specialist,60453.12
+479,Allison,Sanchez,F,1986-01-28,2014-09-23,IT,Data Scientist,52980.74
+480,Matthew,Anderson,F,1973-06-23,2005-09-16,Customer Support,Support Specialist,86871.76
+481,Brittney,Robertson,F,1965-06-24,2007-03-01,Sales,Sales Executive,86423.11
+482,James,Gonzalez,M,1975-04-26,2020-09-13,Admin,Office Administrator,77273.68
+483,Amanda,Figueroa,F,1977-08-21,2014-01-20,IT,Data Scientist,77129.35
+484,Christopher,Chambers,M,1994-03-13,2011-10-06,Engineering,Software Engineer,102744.37
+485,Paul,Mcmillan,F,1984-02-26,2015-12-12,IT,Data Scientist,93102.98
+486,Deborah,Duran,M,1979-03-30,2007-08-30,Product,Product Manager,101453.03
+487,Vanessa,Brown,M,1991-06-01,2006-03-07,Finance,Financial Analyst,103574.49
+488,Tammy,Mcdowell,M,1991-04-07,2021-11-29,Admin,Office Administrator,90379.51
+489,Bryce,Melendez,M,2002-10-07,2015-08-18,Admin,Office Administrator,101747.75
+490,Rebecca,Conrad,F,1966-03-01,2011-10-12,Product,Product Manager,109426.79
+491,Kathy,Robles,F,1998-12-11,2015-12-19,IT,Data Scientist,46474.76
+492,Alicia,Schultz,F,1969-10-02,2006-07-23,Admin,Office Administrator,97313.71
+493,Thomas,White,F,1980-12-22,2012-05-19,Engineering,Software Engineer,116827.96
+494,David,Ortiz,M,1965-06-10,2012-02-12,Marketing,Marketing Specialist,106041.93
+495,Desiree,Brown,F,1992-07-27,2020-03-16,Customer Support,Support Specialist,100488.95
+496,Peter,Watson,M,1999-06-20,2012-11-04,Product,Product Manager,83718.67
+497,Laura,Graham,M,1979-10-22,2011-10-30,IT,Data Scientist,45218.34
+498,Sarah,Rogers,M,1998-10-27,2014-11-16,Finance,Financial Analyst,82310.58
+499,Rachel,Hayden,F,2002-01-04,2008-08-02,Product,Product Manager,95234.67
+500,Anthony,Morgan,M,1999-10-14,2020-01-08,Engineering,Software Engineer,116214.98
+501,Ashley,Warren,F,1992-08-29,2015-04-02,Admin,Office Administrator,101903.83
+502,Mark,Gillespie,M,1999-12-01,2020-02-24,IT,Data Scientist,94900.1
+503,Jason,Fernandez,M,1999-09-30,2008-07-12,HR,HR Manager,68212.39
+504,William,Williams,M,1996-06-27,2008-06-23,HR,HR Manager,50474.53
+505,Barbara,Williams,F,1966-11-18,2019-03-10,HR,HR Manager,50327.25
+506,Andrew,Leon,F,1988-07-29,2020-12-05,Sales,Sales Executive,113232.98
+507,Ian,Robinson,M,1985-01-09,2011-11-06,Customer Support,Support Specialist,69740.94
+508,Dana,Nguyen,F,2001-07-26,2006-05-24,IT,Data Scientist,44362.15
+509,Marc,Jacobs,M,1970-05-23,2011-03-04,HR,HR Manager,102227.2
+510,Michael,Jones,M,1969-03-04,2017-10-22,Operations,Operations Manager,84065.45
+511,Ashley,Lee,M,1983-02-25,2012-03-23,IT,Data Scientist,91439.16
+512,Lindsay,Reyes,F,1996-11-12,2020-03-21,Sales,Sales Executive,50785.75
+513,Robert,Morse,M,1983-02-27,2020-09-21,Finance,Financial Analyst,45457.74
+514,Bailey,Gray,M,1974-10-06,2013-11-14,Marketing,Marketing Specialist,58231.29
+515,Jared,Terry,F,1965-01-15,2023-11-20,Operations,Operations Manager,65952.34
+516,Rachel,Moore,F,1989-02-20,2007-05-18,Operations,Operations Manager,86991.92
+517,Alan,Lawson,F,2000-08-24,2010-01-10,Customer Support,Support Specialist,63978.96
+518,Emily,Kramer,F,1971-05-20,2021-12-10,Operations,Operations Manager,47143.06
+519,Robert,Meyer,M,1967-09-14,2017-09-24,HR,HR Manager,60885.08
+520,Shirley,Sanchez,M,2002-08-23,2023-04-20,Product,Product Manager,111347.08
+521,Elizabeth,Howard,F,1969-01-21,2013-10-28,Sales,Sales Executive,105855.11
+522,Rachel,Christian,M,1979-09-28,2023-06-03,IT,Data Scientist,70195.52
+523,John,Macias,M,1996-04-23,2011-05-13,Admin,Office Administrator,115647.96
+524,Raven,Mendez,F,1982-03-12,2022-08-08,HR,HR Manager,62989.21
+525,Katrina,Hale,F,1997-01-23,2005-07-23,Sales,Sales Executive,105989.68
+526,James,Mills,F,1994-03-23,2023-06-02,Marketing,Marketing Specialist,76851.24
+527,Chad,Palmer,M,1993-10-24,2007-08-27,Product,Product Manager,53104.75
+528,Brad,Waller,M,1964-04-13,2018-03-15,Operations,Operations Manager,96972.47
+529,Stephanie,Hubbard,M,2001-11-30,2016-11-20,Engineering,Software Engineer,108687.59
+530,Amanda,Brown,F,1973-09-01,2019-02-25,HR,HR Manager,105856.28
+531,Frank,Peters,F,1973-07-27,2014-05-07,Sales,Sales Executive,90951.24
+532,Cheryl,Taylor,F,1980-10-08,2024-11-15,HR,HR Manager,109046.11
+533,Donald,Khan,M,1965-11-13,2010-08-14,Finance,Financial Analyst,52132.02
+534,Jesse,Mccoy,M,1983-08-26,2015-03-17,Admin,Office Administrator,94633.49
+535,Ashley,Church,M,1976-11-06,2012-07-10,Engineering,Software Engineer,96681.0
+536,Miguel,Finley,M,1995-03-24,2023-12-11,HR,HR Manager,108056.81
+537,Leslie,Singleton,F,1980-08-13,2016-05-31,Customer Support,Support Specialist,82270.67
+538,Joshua,Perez,M,1977-11-20,2020-08-27,Finance,Financial Analyst,96485.7
+539,Debra,Baker,M,1975-05-11,2012-09-05,HR,HR Manager,63975.29
+540,Angela,Anderson,M,1969-04-26,2012-07-11,IT,Data Scientist,113873.35
+541,Savannah,Lee,F,1985-07-18,2021-01-02,Sales,Sales Executive,54690.99
+542,Mitchell,Bowen,M,1988-02-29,2011-10-02,Operations,Operations Manager,82672.86
+543,Tiffany,Nguyen,M,1971-07-30,2023-07-19,Product,Product Manager,58827.47
+544,Melinda,Mitchell,F,2001-05-09,2013-01-07,Customer Support,Support Specialist,67578.82
+545,Joseph,Hays,M,1969-01-17,2007-10-10,Operations,Operations Manager,115149.29
+546,Eric,Turner,M,1972-06-04,2020-11-18,Operations,Operations Manager,110822.67
+547,Brenda,Hernandez,F,1975-04-21,2008-08-30,Admin,Office Administrator,48965.2
+548,Megan,Baker,M,1971-10-18,2015-09-09,Product,Product Manager,104343.24
+549,Patrick,Harper,M,1970-11-15,2017-05-13,Sales,Sales Executive,111070.98
+550,Veronica,Hood,F,1971-05-23,2018-06-14,Finance,Financial Analyst,83997.9
+551,Russell,Ramsey,M,1981-04-25,2006-09-30,HR,HR Manager,113410.74
+552,Phillip,Joseph,F,1993-06-27,2006-05-30,Marketing,Marketing Specialist,101038.69
+553,Shane,Craig,F,1990-08-18,2016-12-26,Marketing,Marketing Specialist,100126.53
+554,Paul,Lewis,F,1985-03-14,2021-06-19,Engineering,Software Engineer,94546.2
+555,William,Smith,M,1995-02-09,2006-12-02,Sales,Sales Executive,85179.94
+556,Carol,Cervantes,M,1996-12-26,2013-03-31,Operations,Operations Manager,106985.4
+557,David,Ward,F,1972-05-09,2024-01-07,Operations,Operations Manager,46227.99
+558,Amber,Rich,M,1968-07-08,2010-05-21,Marketing,Marketing Specialist,51569.56
+559,Dawn,Farrell,F,1965-12-25,2010-09-26,IT,Data Scientist,98762.88
+560,Antonio,Williams,M,1991-07-19,2010-01-04,IT,Data Scientist,45292.03
+561,Erica,Smith,M,1976-01-02,2018-12-10,IT,Data Scientist,72284.13
+562,Sheena,Reed,M,1967-12-14,2008-12-03,HR,HR Manager,102416.99
+563,Alan,Butler,M,1981-07-17,2012-08-06,Marketing,Marketing Specialist,63712.05
+564,Derrick,Knight,F,1973-02-10,2010-07-14,Finance,Financial Analyst,87082.84
+565,William,Miller,F,1984-12-12,2015-05-25,Marketing,Marketing Specialist,111336.98
+566,Megan,Hudson,M,1995-07-11,2009-05-21,Marketing,Marketing Specialist,105354.64
+567,Katherine,Fox,M,1992-06-20,2022-05-28,HR,HR Manager,64480.17
+568,William,Fletcher,F,1972-03-31,2023-03-08,Finance,Financial Analyst,109075.59
+569,Diamond,Barnes,M,1968-11-02,2018-12-18,IT,Data Scientist,71219.74
+570,Michael,Lopez,F,1994-12-06,2013-03-10,Product,Product Manager,84300.9
+571,Jamie,Figueroa,F,1995-07-03,2007-10-15,Customer Support,Support Specialist,106034.31
+572,Anna,Martinez,M,1980-05-10,2006-09-21,Operations,Operations Manager,71473.67
+573,Joshua,Parker,M,1977-08-13,2009-02-02,Finance,Financial Analyst,68965.54
+574,Terri,Colon,M,1974-10-04,2010-01-01,Engineering,Software Engineer,82103.98
+575,Thomas,Williams,F,1991-03-12,2014-01-28,HR,HR Manager,42193.62
+576,Meghan,Silva,M,1993-04-29,2018-12-02,Finance,Financial Analyst,99077.87
+577,Erika,Gordon,F,2000-04-05,2017-06-17,Customer Support,Support Specialist,118905.47
+578,Christina,Diaz,M,1989-05-04,2020-02-29,Product,Product Manager,46559.31
+579,Scott,Hanson,M,1970-11-18,2021-12-27,Customer Support,Support Specialist,98532.97
+580,Charles,Williamson,F,1996-02-10,2017-02-11,HR,HR Manager,59440.02
+581,Gary,Evans,M,1987-01-17,2008-05-24,HR,HR Manager,57844.73
+582,Victoria,Greer,F,1979-09-11,2020-12-17,Product,Product Manager,115753.54
+583,Cameron,Roberts,F,2000-02-18,2013-02-20,Admin,Office Administrator,77712.27
+584,Stephen,Ortiz,M,1981-06-16,2007-07-11,Admin,Office Administrator,57041.96
+585,Robert,Love,M,1983-10-21,2018-09-30,Sales,Sales Executive,106809.93
+586,Breanna,Schneider,F,1978-07-22,2013-05-13,Product,Product Manager,51171.3
+587,Paul,Schultz,F,1996-09-22,2019-09-07,Sales,Sales Executive,66232.43
+588,Ashley,Martin,M,1980-07-11,2009-04-19,Operations,Operations Manager,82385.7
+589,Brenda,Michael,F,1978-10-14,2018-08-05,Finance,Financial Analyst,72381.15
+590,Brenda,Merritt,F,1973-01-04,2009-08-12,Marketing,Marketing Specialist,93793.73
+591,Shane,Davis,M,1999-11-25,2015-01-29,Customer Support,Support Specialist,108036.9
+592,Ashley,Gray,M,1986-02-15,2012-03-21,Finance,Financial Analyst,114354.21
+593,Heather,Bryant,F,1986-04-08,2018-05-11,Customer Support,Support Specialist,79263.5
+594,Amber,Williams,M,2000-11-08,2023-04-16,Customer Support,Support Specialist,75510.65
+595,Deborah,Burton,M,2001-11-28,2020-03-06,Admin,Office Administrator,82883.59
+596,Charles,Mcneil,M,1975-08-04,2012-11-15,Finance,Financial Analyst,115662.14
+597,Jay,Mason,M,1968-02-19,2020-07-06,IT,Data Scientist,86851.98
+598,Hannah,Wall,M,1998-12-28,2016-05-03,Finance,Financial Analyst,56439.47
+599,Kenneth,Hernandez,M,1979-02-12,2015-12-21,Engineering,Software Engineer,68550.5
+600,Robert,Cox,M,1972-06-01,2014-03-07,Operations,Operations Manager,64004.87
+601,Dana,Wright,M,1965-06-29,2020-03-20,Sales,Sales Executive,57970.65
+602,Tonya,Harris,M,1974-04-19,2021-05-06,Marketing,Marketing Specialist,67896.48
+603,Christopher,Smith,M,1996-11-29,2017-02-15,HR,HR Manager,65317.2
+604,James,Shelton,M,1974-06-23,2013-09-29,Finance,Financial Analyst,49246.87
+605,Marie,Hopkins,M,1995-08-28,2007-08-22,Admin,Office Administrator,58699.38
+606,John,Alvarado,F,1994-08-12,2016-12-19,HR,HR Manager,119354.27
+607,Heather,Bell,F,1988-02-22,2010-11-14,IT,Data Scientist,41218.51
+608,Derrick,Moreno,M,1996-11-21,2019-02-22,Customer Support,Support Specialist,56184.21
+609,Ronald,Perez,F,1987-09-08,2024-11-05,Engineering,Software Engineer,82166.39
+610,Benjamin,Graham,M,1982-09-20,2016-04-16,Engineering,Software Engineer,95032.97
+611,Karen,Odom,M,1988-07-29,2005-11-03,Engineering,Software Engineer,44623.31
+612,Jon,Cooper,M,1992-02-24,2022-09-06,Engineering,Software Engineer,73260.37
+613,Wesley,Frye,F,1971-09-20,2005-07-19,HR,HR Manager,59387.24
+614,Stephen,Thompson,M,1969-01-23,2008-03-04,Admin,Office Administrator,70589.57
+615,Colin,Cunningham,F,1969-04-18,2015-03-23,Operations,Operations Manager,73272.15
+616,Danielle,Archer,F,1977-12-24,2009-03-28,Engineering,Software Engineer,47524.88
+617,Michael,Proctor,M,1998-11-22,2018-01-14,Operations,Operations Manager,87403.27
+618,Jeffrey,King,F,1982-08-23,2012-03-13,IT,Data Scientist,82069.96
+619,Brenda,Young,M,1966-05-21,2008-09-10,Sales,Sales Executive,113584.06
+620,Taylor,Hansen,F,1973-08-26,2022-05-26,Sales,Sales Executive,92790.37
+621,Kimberly,Velasquez,F,1996-05-07,2021-01-13,Marketing,Marketing Specialist,47784.24
+622,Erika,Morales,M,1973-03-07,2017-11-14,Admin,Office Administrator,79524.45
+623,Justin,Dickerson,F,1983-08-16,2009-03-26,Admin,Office Administrator,86102.54
+624,Sheena,Brown,M,1986-11-09,2005-09-02,Marketing,Marketing Specialist,81777.19
+625,Chase,Stephens,M,1973-09-21,2012-11-03,IT,Data Scientist,69558.24
+626,Todd,Martin,F,1966-07-09,2007-08-12,Marketing,Marketing Specialist,97628.14
+627,Emily,Pham,F,1973-02-09,2010-08-27,Finance,Financial Analyst,92089.66
+628,Heidi,Fleming,F,1978-11-17,2016-11-02,IT,Data Scientist,45786.94
+629,Rebecca,Morse,M,1987-09-03,2016-04-10,Marketing,Marketing Specialist,116123.63
+630,James,Ward,M,2002-05-17,2013-09-09,Admin,Office Administrator,89836.64
+631,Cody,Johnson,M,1973-10-29,2017-11-15,Admin,Office Administrator,60485.45
+632,Blake,Phillips,M,1999-02-21,2023-08-11,Product,Product Manager,43259.6
+633,Thomas,Rodriguez,F,1999-03-21,2023-06-22,Engineering,Software Engineer,90828.31
+634,Scott,Nelson,M,1975-09-14,2011-03-22,Admin,Office Administrator,113663.49
+635,Sean,Rich,F,1994-04-14,2025-03-04,Finance,Financial Analyst,71058.79
+636,Patricia,French,M,1998-08-03,2007-07-03,Marketing,Marketing Specialist,114214.44
+637,Joseph,Murphy,M,1997-02-17,2015-04-10,Engineering,Software Engineer,59340.07
+638,Lisa,Nixon,M,1973-02-23,2018-12-20,Admin,Office Administrator,93988.93
+639,Laura,Barker,M,1989-04-11,2017-10-05,Customer Support,Support Specialist,95650.57
+640,Barbara,Patel,F,1993-06-13,2010-02-26,IT,Data Scientist,47821.05
+641,Kelly,Martin,F,1989-01-28,2024-08-31,Marketing,Marketing Specialist,73784.61
+642,Michael,Hunt,F,1975-04-27,2021-02-15,Product,Product Manager,40473.42
+643,Todd,Lloyd,M,1988-06-06,2021-12-12,Finance,Financial Analyst,85431.62
+644,John,Holt,F,1967-06-09,2016-07-04,Customer Support,Support Specialist,54909.59
+645,Jacob,Murray,M,1977-06-26,2009-05-22,Admin,Office Administrator,75486.24
+646,Charles,Luna,M,1990-10-04,2019-01-09,Finance,Financial Analyst,87651.22
+647,Kimberly,Holt,M,1975-07-22,2022-01-13,Operations,Operations Manager,60708.55
+648,Ronald,Barton,F,1973-07-24,2014-08-23,Product,Product Manager,48401.85
+649,Sarah,Fuller,F,1975-11-11,2011-07-18,Customer Support,Support Specialist,40518.12
+650,Antonio,Huerta,F,1979-09-30,2014-12-05,Operations,Operations Manager,85437.04
+651,Jared,Bennett,M,1969-02-17,2015-08-28,Finance,Financial Analyst,55919.75
+652,Carla,Medina,M,2002-10-04,2006-02-04,Operations,Operations Manager,68221.4
+653,Erika,Moore,F,1968-06-20,2008-01-27,Product,Product Manager,74428.78
+654,Shelley,Becker,M,2000-04-12,2011-12-07,Finance,Financial Analyst,116185.0
+655,Misty,Hicks,F,1985-09-03,2022-02-01,Operations,Operations Manager,68059.14
+656,Mallory,Brown,F,1978-04-09,2019-12-01,Product,Product Manager,90011.64
+657,Joel,Johnson,F,1976-12-14,2005-12-14,Finance,Financial Analyst,52835.07
+658,Jorge,Davis,M,1994-06-26,2005-03-28,Engineering,Software Engineer,50179.42
+659,Kyle,Smith,M,1997-12-04,2023-09-11,Admin,Office Administrator,106566.59
+660,Richard,Sanders,F,1965-06-16,2013-09-13,Operations,Operations Manager,49072.83
+661,Theresa,Walton,M,1990-07-30,2012-04-10,Sales,Sales Executive,89897.47
+662,Donald,Gonzalez,M,1965-01-12,2014-12-28,Customer Support,Support Specialist,50398.24
+663,Peter,Bates,F,1995-05-11,2016-05-12,IT,Data Scientist,59642.17
+664,Nathaniel,Stewart,F,1977-06-17,2020-10-15,Sales,Sales Executive,108009.45
+665,Morgan,Villegas,M,1972-09-04,2024-01-10,Operations,Operations Manager,106465.73
+666,John,Mitchell,F,1981-04-12,2008-04-12,Admin,Office Administrator,57699.06
+667,Matthew,Salinas,M,1979-10-03,2010-07-10,Admin,Office Administrator,42085.78
+668,Brian,Wilson,M,1967-10-11,2011-01-31,Operations,Operations Manager,73498.74
+669,Pam,Mckee,F,1986-04-20,2012-03-22,Sales,Sales Executive,119347.95
+670,David,Schultz,M,1970-02-10,2008-08-28,Operations,Operations Manager,58986.83
+671,Daniel,Reed,F,1977-08-13,2009-07-22,IT,Data Scientist,75905.22
+672,Jeremy,Snyder,M,1986-04-30,2012-06-07,Operations,Operations Manager,53397.91
+673,Kathryn,Brown,F,1967-11-12,2012-06-24,Engineering,Software Engineer,104211.17
+674,David,Miller,F,1972-08-16,2007-10-19,Engineering,Software Engineer,115703.73
+675,Jeffrey,Mcdonald,M,1999-08-11,2015-08-04,Engineering,Software Engineer,69686.7
+676,Tonya,Davidson,F,1973-04-04,2010-10-13,Product,Product Manager,68931.31
+677,Cynthia,Goodman,F,1981-06-17,2006-03-30,Finance,Financial Analyst,86950.46
+678,Glenn,Bryan,M,1983-02-24,2020-12-25,Admin,Office Administrator,69899.67
+679,Samantha,Patel,F,1970-09-11,2025-03-02,HR,HR Manager,66818.56
+680,Mary,Bullock,M,1969-10-16,2015-11-22,Customer Support,Support Specialist,65241.57
+681,Alicia,Cooke,M,1964-11-29,2017-12-26,Sales,Sales Executive,116373.2
+682,Penny,Giles,M,1995-04-13,2024-03-02,Sales,Sales Executive,115248.58
+683,Jorge,Frazier,M,1980-06-25,2017-07-22,IT,Data Scientist,66491.87
+684,Kent,Chen,F,1993-09-25,2020-02-26,Admin,Office Administrator,42955.7
+685,Susan,Morrison,F,1999-02-15,2022-05-10,Sales,Sales Executive,119032.18
+686,Tony,Carter,M,1999-03-12,2014-04-26,IT,Data Scientist,115445.35
+687,Tanya,Sawyer,M,1971-01-09,2022-11-05,Engineering,Software Engineer,74191.97
+688,Jon,Cooper,M,2002-01-24,2017-07-24,Admin,Office Administrator,60204.89
+689,Julie,Floyd,F,1981-12-26,2017-03-30,Operations,Operations Manager,71356.12
+690,Henry,Williams,M,1996-05-04,2010-08-01,Admin,Office Administrator,95512.95
+691,Grant,Braun,F,1967-08-09,2022-08-27,HR,HR Manager,104911.77
+692,Michael,Heath,F,1966-02-11,2017-09-08,Operations,Operations Manager,62504.53
+693,Tammy,Parker,M,1996-12-05,2011-03-28,Marketing,Marketing Specialist,43148.49
+694,Morgan,Kim,F,1981-03-12,2011-03-08,Sales,Sales Executive,109228.37
+695,Kimberly,Rowland,M,1982-04-11,2020-01-01,Marketing,Marketing Specialist,103239.56
+696,Joseph,Martinez,M,1985-03-23,2016-09-02,HR,HR Manager,109537.76
+697,Jose,Clark,F,1991-12-25,2010-02-15,HR,HR Manager,108831.01
+698,Thomas,Mccarthy,F,1989-06-13,2008-02-08,Engineering,Software Engineer,61213.75
+699,Jonathan,Cox,F,1995-05-11,2016-09-15,IT,Data Scientist,116582.83
+700,Michelle,Miller,M,1979-11-27,2007-01-22,HR,HR Manager,118965.47
+701,Kathy,Collins,M,1981-02-11,2011-02-01,Marketing,Marketing Specialist,82078.87
+702,Todd,Collins,F,1999-04-03,2019-11-13,Finance,Financial Analyst,103349.25
+703,Justin,Avila,M,1996-11-15,2020-05-05,Sales,Sales Executive,41642.74
+704,Gloria,Hebert,M,1987-06-05,2013-01-20,Sales,Sales Executive,80650.08
+705,Carlos,Thompson,F,1997-02-11,2010-04-10,Customer Support,Support Specialist,119202.35
+706,Brandon,Whitaker,F,1970-05-18,2021-09-01,Finance,Financial Analyst,64165.3
+707,Jeffrey,Curtis,F,1982-06-21,2018-01-25,Engineering,Software Engineer,92729.47
+708,Richard,Patton,M,2000-09-01,2016-07-15,Engineering,Software Engineer,70097.11
+709,Benjamin,Rogers,M,1964-08-19,2021-02-09,HR,HR Manager,113843.82
+710,Elizabeth,Navarro,F,1965-04-04,2009-12-23,Finance,Financial Analyst,65635.39
+711,Amy,Henson,F,1994-02-22,2007-09-26,Engineering,Software Engineer,92683.88
+712,Shirley,Guerrero,F,1992-10-28,2015-05-28,Sales,Sales Executive,90432.21
+713,Kelly,Hogan,M,1969-01-16,2024-12-30,Customer Support,Support Specialist,48582.75
+714,Cheryl,Beck,M,1980-07-01,2009-05-28,HR,HR Manager,73836.89
+715,Todd,Newman,M,1990-11-12,2013-04-03,HR,HR Manager,104284.89
+716,Victoria,Wu,M,1974-04-23,2021-06-05,Engineering,Software Engineer,55637.77
+717,Lisa,Walker,F,1985-11-09,2014-08-12,IT,Data Scientist,98810.83
+718,Meghan,Lopez,M,1967-03-10,2022-12-03,Engineering,Software Engineer,67158.17
+719,James,Williams,M,1977-07-18,2020-02-03,Engineering,Software Engineer,60533.9
+720,Cody,Johnson,M,1976-11-24,2014-10-22,Marketing,Marketing Specialist,99251.51
+721,Ryan,Grant,F,1986-12-19,2024-04-22,Finance,Financial Analyst,110136.7
+722,Larry,Williams,M,1976-09-16,2014-10-24,HR,HR Manager,80185.15
+723,Alexander,Chang,F,1964-08-07,2008-06-23,HR,HR Manager,58355.4
+724,Morgan,Nichols,M,1979-08-12,2013-09-10,IT,Data Scientist,90868.26
+725,Amy,Hall,M,1979-09-21,2006-06-20,Sales,Sales Executive,47843.89
+726,John,Gonzalez,M,1974-04-28,2008-08-12,Operations,Operations Manager,62200.3
+727,Natasha,Smith,F,1968-08-07,2012-08-16,HR,HR Manager,103914.39
+728,Brandon,Parker,M,2003-02-02,2009-05-09,Admin,Office Administrator,117577.16
+729,Jon,Flowers,F,1964-04-06,2023-04-28,Admin,Office Administrator,106168.39
+730,Tyler,Green,M,1964-10-23,2007-05-19,HR,HR Manager,86588.92
+731,Michelle,Castillo,F,1985-01-19,2012-02-21,Admin,Office Administrator,49671.58
+732,John,Carter,F,1991-03-07,2011-10-12,Sales,Sales Executive,71315.46
+733,Edward,Thomas,M,1986-09-22,2007-08-07,Finance,Financial Analyst,92034.19
+734,Christopher,Jones,F,1973-07-12,2006-10-20,Product,Product Manager,89417.64
+735,Felicia,Jenkins,F,1966-05-02,2007-02-19,HR,HR Manager,47249.02
+736,Christine,Mora,M,1968-12-31,2019-04-15,Finance,Financial Analyst,88422.22
+737,Danielle,Brown,F,2002-07-22,2016-08-10,Product,Product Manager,57568.23
+738,Brenda,Moore,F,1993-03-22,2010-10-30,HR,HR Manager,67914.46
+739,Hunter,Kennedy,M,1991-02-10,2016-12-20,Sales,Sales Executive,50953.16
+740,Miguel,Braun,M,1974-04-30,2018-03-05,Product,Product Manager,63610.65
+741,Brent,Carr,M,1982-08-11,2023-06-10,Sales,Sales Executive,68043.46
+742,Patrick,Stone,M,1983-03-12,2015-03-24,Product,Product Manager,58681.53
+743,Ashley,Henderson,F,1972-05-27,2023-06-15,HR,HR Manager,65530.14
+744,Paul,Jimenez,M,1980-10-28,2020-07-07,Marketing,Marketing Specialist,100262.02
+745,Richard,Hernandez,F,1986-02-12,2008-03-18,Admin,Office Administrator,70760.96
+746,Jonathan,Abbott,F,1982-11-24,2019-10-27,Admin,Office Administrator,110083.32
+747,Amanda,Dominguez,M,1974-05-15,2011-07-31,Finance,Financial Analyst,111958.44
+748,Matthew,Wallace,M,1973-09-14,2019-01-30,Finance,Financial Analyst,55855.08
+749,Robert,Nelson,F,1985-09-10,2008-12-28,Admin,Office Administrator,108952.95
+750,Matthew,Kline,M,1994-12-30,2017-12-18,Admin,Office Administrator,59438.57
+751,James,Jones,M,1995-03-08,2011-11-21,Sales,Sales Executive,57835.65
+752,Jessica,Wright,F,2002-12-19,2014-04-22,Admin,Office Administrator,72764.75
+753,Christian,Johnson,M,1987-11-04,2016-01-18,Marketing,Marketing Specialist,92544.98
+754,Billy,Richardson,M,1988-02-11,2007-11-24,Sales,Sales Executive,65735.61
+755,Kyle,Hall,F,1974-10-15,2017-03-27,Sales,Sales Executive,101089.22
+756,Jennifer,Martinez,F,2001-01-13,2022-02-03,Customer Support,Support Specialist,47649.32
+757,Tyrone,Hoffman,M,1988-01-10,2017-09-07,Sales,Sales Executive,40050.32
+758,John,Lee,F,1987-01-28,2015-12-08,Product,Product Manager,83480.66
+759,Lisa,Williamson,M,1991-06-14,2005-12-10,Marketing,Marketing Specialist,103768.32
+760,Jonathan,Cook,F,1987-02-22,2023-12-07,Marketing,Marketing Specialist,53990.99
+761,Edward,Edwards,F,1968-05-31,2021-03-24,Engineering,Software Engineer,60691.92
+762,Michael,Hanson,F,1982-12-29,2024-11-13,Customer Support,Support Specialist,74181.08
+763,Daniel,Smith,F,1983-06-12,2019-08-03,Sales,Sales Executive,64642.91
+764,Jason,Grant,M,1993-07-10,2016-12-06,IT,Data Scientist,69827.47
+765,John,Mcclure,M,1995-02-05,2010-08-06,Engineering,Software Engineer,47124.11
+766,Jesse,Hobbs,M,1965-08-26,2008-02-08,Marketing,Marketing Specialist,53289.13
+767,Michael,Torres,M,1969-03-12,2019-05-11,Customer Support,Support Specialist,107096.67
+768,Brenda,Brown,M,1986-03-04,2009-03-11,Finance,Financial Analyst,76544.79
+769,Terri,Solis,F,1970-04-21,2014-06-25,Product,Product Manager,90827.2
+770,Tammy,Harris,M,1996-03-06,2008-09-21,Marketing,Marketing Specialist,88623.59
+771,Rachel,Meyer,F,1996-07-10,2010-11-17,Sales,Sales Executive,109370.03
+772,Jerry,Watkins,M,1972-02-21,2006-10-01,Engineering,Software Engineer,51042.46
+773,James,Poole,F,1969-07-28,2005-12-06,Admin,Office Administrator,46083.15
+774,Duane,Schultz,M,1985-10-18,2019-03-05,Marketing,Marketing Specialist,51930.67
+775,Blake,Garcia,M,1984-06-04,2007-03-25,Customer Support,Support Specialist,100087.19
+776,Julie,Gray,F,1983-08-09,2020-09-23,Product,Product Manager,114325.49
+777,Justin,Singh,M,1984-02-16,2007-07-18,IT,Data Scientist,61296.52
+778,Kevin,Fernandez,M,1982-12-08,2022-12-30,Marketing,Marketing Specialist,78787.76
+779,Susan,Branch,M,1999-02-07,2007-05-03,Product,Product Manager,119384.47
+780,Paul,Mills,M,1997-01-06,2017-03-01,Operations,Operations Manager,113781.01
+781,Justin,Barrett,M,1979-09-02,2012-09-19,Sales,Sales Executive,100821.13
+782,Travis,Todd,M,1981-06-30,2007-10-02,Marketing,Marketing Specialist,93342.71
+783,Peter,Evans,F,1987-08-28,2017-05-13,Product,Product Manager,103281.58
+784,James,Hogan,F,1991-04-19,2016-12-22,Sales,Sales Executive,93662.07
+785,Kimberly,Mueller,F,1981-07-27,2023-03-05,Product,Product Manager,110016.75
+786,Erin,Flores,M,1966-10-11,2018-01-16,Engineering,Software Engineer,105817.8
+787,Christopher,Shepherd,M,1966-02-25,2013-08-15,Product,Product Manager,44662.07
+788,Tracy,Rivera,F,1998-06-08,2016-12-07,Engineering,Software Engineer,88407.57
+789,Alex,Scott,F,1981-06-06,2009-06-05,Admin,Office Administrator,87354.09
+790,Steven,Weaver,M,1973-12-17,2022-10-19,Marketing,Marketing Specialist,97511.31
+791,Erica,Williamson,M,1988-06-12,2015-01-27,Operations,Operations Manager,56622.01
+792,Kara,Weaver,F,1964-12-12,2009-02-03,HR,HR Manager,96204.49
+793,Sara,Patrick,F,1991-08-30,2023-06-05,Sales,Sales Executive,50608.35
+794,Mark,Grant,M,1987-04-19,2024-09-20,Customer Support,Support Specialist,118826.06
+795,Michelle,Mendoza,M,1971-04-06,2010-02-05,Finance,Financial Analyst,106299.31
+796,Thomas,Stein,F,1998-06-04,2005-12-13,IT,Data Scientist,78543.62
+797,Cynthia,Weeks,F,1984-04-03,2022-07-09,Admin,Office Administrator,92186.72
+798,Tina,Nelson,F,1981-03-18,2007-04-23,Sales,Sales Executive,106070.28
+799,Monique,Berger,F,1965-02-24,2008-06-07,Engineering,Software Engineer,91077.44
+800,Garrett,Silva,M,1991-06-08,2018-12-19,Finance,Financial Analyst,112122.25
+801,Joseph,Edwards,M,1992-10-24,2024-07-22,Finance,Financial Analyst,110481.05
+802,Lisa,Stout,F,1972-01-24,2021-04-10,Admin,Office Administrator,99045.2
+803,Brian,Lopez,M,1986-01-22,2023-02-18,Finance,Financial Analyst,68812.03
+804,Kevin,Young,F,1967-01-07,2015-04-02,Customer Support,Support Specialist,95519.71
+805,Matthew,Sanchez,F,1984-05-10,2016-11-20,Admin,Office Administrator,46439.47
+806,Jake,Schultz,M,1993-08-16,2005-10-30,Customer Support,Support Specialist,118609.72
+807,Paul,Kirk,F,1999-05-14,2011-11-24,Engineering,Software Engineer,119285.32
+808,Sarah,Wood,M,1965-12-22,2024-12-08,Finance,Financial Analyst,102257.02
+809,Corey,Donaldson,F,1977-06-12,2012-11-24,Customer Support,Support Specialist,71660.59
+810,Spencer,Mcclain,F,1991-01-04,2015-06-18,Finance,Financial Analyst,78342.72
+811,Jonathon,Gonzalez,M,1988-05-23,2024-01-28,IT,Data Scientist,76504.62
+812,Brandon,Silva,M,1964-05-22,2009-08-26,IT,Data Scientist,89157.02
+813,Donald,Ortiz,F,1987-05-04,2008-01-11,IT,Data Scientist,80393.68
+814,David,Harris,F,1998-07-21,2022-06-21,Engineering,Software Engineer,109924.41
+815,Patricia,Young,F,1994-05-28,2019-07-17,Sales,Sales Executive,41465.33
+816,Julian,Martinez,M,1973-03-31,2021-11-13,Admin,Office Administrator,107347.73
+817,Craig,Thomas,F,1984-08-25,2011-01-18,HR,HR Manager,80493.22
+818,John,Coleman,M,1992-08-27,2015-12-07,IT,Data Scientist,64158.9
+819,Jorge,Zavala,F,1993-01-20,2008-08-18,Operations,Operations Manager,85944.15
+820,Ashley,Jones,M,1992-05-16,2009-05-22,Operations,Operations Manager,57228.33
+821,David,Goodwin,M,1977-05-18,2006-08-14,IT,Data Scientist,118886.89
+822,Joseph,Castillo,F,1996-03-22,2022-08-01,Engineering,Software Engineer,117565.58
+823,Tyler,Newton,M,1972-09-12,2019-09-04,Admin,Office Administrator,83263.31
+824,Martha,Evans,F,1966-02-25,2022-09-16,IT,Data Scientist,60768.11
+825,Erica,Mooney,F,1973-08-18,2024-08-02,Sales,Sales Executive,86412.29
+826,Jeffrey,Ramirez,M,1987-09-25,2019-03-25,Engineering,Software Engineer,98482.45
+827,Brianna,Garner,F,1968-10-10,2015-03-26,Admin,Office Administrator,74605.28
+828,Justin,Curtis,F,1967-12-22,2012-02-20,Customer Support,Support Specialist,81876.05
+829,Alexandra,Torres,F,1977-01-31,2005-10-16,IT,Data Scientist,40195.72
+830,Misty,Smith,M,2001-09-27,2006-11-26,Customer Support,Support Specialist,96088.67
+831,Jonathan,Crosby,M,1984-12-26,2008-04-16,Finance,Financial Analyst,113842.39
+832,Joseph,Buck,F,2002-08-21,2018-01-03,Marketing,Marketing Specialist,59961.02
+833,Nathaniel,Stewart,F,1966-07-16,2013-11-08,Finance,Financial Analyst,99973.27
+834,Hannah,Ross,M,1972-05-04,2017-08-24,Operations,Operations Manager,112074.59
+835,Lori,Wang,M,1970-08-09,2005-04-14,Finance,Financial Analyst,50162.38
+836,Jenny,Spencer,F,1983-12-05,2008-04-20,Operations,Operations Manager,55702.98
+837,Melissa,Simmons,F,1992-03-20,2024-09-28,Operations,Operations Manager,103436.71
+838,Warren,Thomas,M,1966-09-24,2016-11-05,Engineering,Software Engineer,44311.38
+839,Debra,Bates,M,1974-06-22,2016-11-14,Engineering,Software Engineer,84486.98
+840,Keith,Jacobs,F,2000-05-27,2017-07-27,HR,HR Manager,102686.14
+841,Katherine,Fuller,F,1984-11-30,2015-02-25,Sales,Sales Executive,91176.37
+842,Amanda,Green,M,2002-02-05,2020-01-17,Marketing,Marketing Specialist,40499.18
+843,Victoria,Scott,M,1970-12-25,2009-03-21,Operations,Operations Manager,49580.21
+844,Nicole,Martinez,F,2001-09-11,2005-04-02,Finance,Financial Analyst,113423.36
+845,Laura,Smith,F,1968-06-06,2005-09-27,Finance,Financial Analyst,86213.65
+846,Andrea,Moses,F,1992-01-11,2025-01-03,Customer Support,Support Specialist,62078.31
+847,Andrew,Garcia,M,1992-07-25,2020-03-22,Sales,Sales Executive,109664.17
+848,Ashley,Fitzpatrick,M,1983-12-07,2009-04-21,IT,Data Scientist,116973.39
+849,Jennifer,Baker,F,2001-04-20,2019-10-24,Engineering,Software Engineer,109373.61
+850,Mary,Gaines,F,1965-10-16,2024-08-01,Sales,Sales Executive,43784.87
+851,Derek,Norris,M,1999-05-04,2024-05-15,Sales,Sales Executive,45458.67
+852,Johnny,Jenkins,F,1995-08-13,2014-09-07,Engineering,Software Engineer,107701.6
+853,Susan,Hernandez,F,1984-04-20,2019-03-26,Product,Product Manager,47305.98
+854,Aimee,Compton,F,1975-07-20,2024-04-17,IT,Data Scientist,113268.96
+855,Ronald,Wheeler,M,1977-07-09,2023-08-23,Marketing,Marketing Specialist,51438.73
+856,Michele,Torres,M,2002-07-26,2017-07-17,HR,HR Manager,60337.2
+857,Joseph,Davis,F,1971-03-15,2010-03-08,Product,Product Manager,45181.2
+858,Lynn,Brown,F,1967-07-23,2011-07-23,Admin,Office Administrator,83991.01
+859,Michael,Bullock,F,2002-03-12,2011-06-21,Finance,Financial Analyst,91392.59
+860,Raymond,Melendez,M,1967-04-25,2010-10-03,Customer Support,Support Specialist,73336.98
+861,Alexandra,Johnson,F,1984-01-31,2014-02-23,Customer Support,Support Specialist,43302.76
+862,Daniel,Ball,F,1969-11-02,2015-08-10,Finance,Financial Analyst,116879.21
+863,Robert,Jackson,M,1994-03-18,2019-07-07,Marketing,Marketing Specialist,95235.24
+864,Patricia,Carrillo,F,1999-12-15,2011-03-09,HR,HR Manager,67775.75
+865,Dylan,Barton,F,1969-04-23,2017-11-06,Finance,Financial Analyst,110596.36
+866,Vincent,Ross,F,1984-08-05,2007-05-24,Marketing,Marketing Specialist,53377.02
+867,Lori,Carter,M,1976-11-04,2006-08-20,Customer Support,Support Specialist,61597.16
+868,Amy,Drake,F,1999-05-01,2017-08-22,HR,HR Manager,102512.84
+869,Steven,Adams,F,2001-05-13,2017-08-21,Finance,Financial Analyst,93871.77
+870,Kari,Solis,M,1985-06-12,2021-12-24,Sales,Sales Executive,58388.26
+871,Evan,Wallace,F,1996-11-25,2007-01-17,Engineering,Software Engineer,71794.51
+872,Sarah,Smith,M,1982-03-22,2007-11-03,Admin,Office Administrator,77751.93
+873,Charles,Miller,F,1991-07-06,2020-04-21,Customer Support,Support Specialist,71459.12
+874,Keith,Dean,M,1975-11-22,2015-03-03,Customer Support,Support Specialist,108376.22
+875,Valerie,Thompson,F,1992-08-11,2014-05-18,Customer Support,Support Specialist,73292.33
+876,Debra,Jordan,M,1972-09-13,2010-11-14,IT,Data Scientist,80232.68
+877,Megan,Barnes,M,1976-05-05,2015-09-21,Customer Support,Support Specialist,84831.45
+878,Christopher,Williams,M,2001-07-06,2005-12-16,IT,Data Scientist,58901.98
+879,Michele,Anderson,F,2000-06-10,2018-02-28,Product,Product Manager,61215.08
+880,Anna,Ramsey,F,1987-01-13,2013-03-20,Engineering,Software Engineer,116196.8
+881,Heidi,Yang,M,1974-08-04,2007-01-10,Operations,Operations Manager,41986.82
+882,Mark,Garner,F,1988-12-30,2015-05-11,Operations,Operations Manager,94750.14
+883,David,Mcfarland,M,1989-10-02,2008-08-05,IT,Data Scientist,99168.05
+884,Kimberly,Nicholson,M,1979-04-19,2020-09-12,HR,HR Manager,97318.13
+885,Charles,Hill,M,2001-01-09,2018-06-12,Product,Product Manager,58016.65
+886,Megan,Fowler,M,1996-09-23,2023-06-18,Marketing,Marketing Specialist,45929.95
+887,Katie,Jensen,F,2002-08-13,2010-10-29,IT,Data Scientist,67629.11
+888,Toni,Martinez,M,1985-09-20,2008-04-21,Marketing,Marketing Specialist,88608.85
+889,Heather,Hill,F,1994-01-10,2017-10-16,IT,Data Scientist,45423.27
+890,Jill,Baldwin,F,1989-09-18,2014-10-03,Admin,Office Administrator,54745.09
+891,Mary,Lyons,F,1984-11-02,2010-02-04,HR,HR Manager,78345.11
+892,Keith,Moore,M,1969-12-19,2021-11-07,IT,Data Scientist,107430.88
+893,Douglas,Paul,F,1987-01-30,2009-12-20,Engineering,Software Engineer,88929.49
+894,Lisa,Larson,M,2001-04-07,2009-08-24,HR,HR Manager,105765.4
+895,Laura,Anderson,F,1987-07-08,2005-10-31,Customer Support,Support Specialist,59030.98
+896,Morgan,Green,F,1984-11-21,2008-05-10,IT,Data Scientist,40239.15
+897,Matthew,Hanson,F,1994-01-07,2019-11-10,IT,Data Scientist,78312.38
+898,Paul,Harris,F,1997-03-07,2024-08-12,Finance,Financial Analyst,100974.04
+899,Tammy,Miller,M,1991-10-07,2013-12-04,Customer Support,Support Specialist,66073.21
+900,Richard,Payne,M,1975-10-14,2010-12-26,Sales,Sales Executive,69215.46
+901,Kimberly,Mack,M,1996-06-15,2012-01-09,IT,Data Scientist,60273.4
+902,Jesse,Chapman,F,1997-09-04,2005-10-15,Admin,Office Administrator,91250.84
+903,Dawn,Pace,F,1974-01-21,2019-05-26,Operations,Operations Manager,74000.13
+904,Holly,Palmer,F,1975-08-20,2023-08-02,Customer Support,Support Specialist,71691.14
+905,Ryan,Allen,F,2001-08-03,2011-09-25,Operations,Operations Manager,76261.44
+906,Kaitlin,Tran,F,1978-11-27,2024-10-17,Sales,Sales Executive,114629.27
+907,Elizabeth,Bennett,M,1970-09-24,2024-08-09,Marketing,Marketing Specialist,106190.25
+908,Carl,Myers,M,1999-03-10,2016-03-14,Engineering,Software Engineer,74344.79
+909,Tonya,Reeves,F,1971-05-22,2019-09-08,Customer Support,Support Specialist,82779.64
+910,Tanner,Cline,F,1984-12-25,2005-09-04,Sales,Sales Executive,99648.72
+911,Leah,Jordan,F,1998-04-13,2020-02-12,Sales,Sales Executive,60835.45
+912,Christopher,Simmons,F,1968-05-18,2015-03-17,Admin,Office Administrator,74419.15
+913,Thomas,Booth,F,1968-09-22,2012-06-17,Engineering,Software Engineer,92156.65
+914,Melinda,Petty,M,1999-05-02,2023-11-27,IT,Data Scientist,103055.91
+915,Ashlee,Long,M,1990-06-08,2021-09-04,Sales,Sales Executive,56111.84
+916,Victoria,Bowman,F,1989-02-28,2016-11-22,Sales,Sales Executive,57852.17
+917,Jennifer,Henderson,F,1982-08-12,2014-03-22,Operations,Operations Manager,86241.38
+918,Debbie,Stone,F,1988-09-03,2023-05-12,Admin,Office Administrator,119324.7
+919,Alicia,Owens,F,1970-12-07,2010-09-23,Operations,Operations Manager,60909.52
+920,Kyle,Munoz,F,1987-01-23,2015-04-28,HR,HR Manager,104676.48
+921,Dave,Heath,M,1998-07-03,2015-03-07,Engineering,Software Engineer,45335.52
+922,Christopher,Bailey,M,1972-01-24,2014-12-10,Product,Product Manager,50226.13
+923,Lisa,Thomas,F,1970-03-22,2010-05-02,Admin,Office Administrator,99861.27
+924,Lynn,Hernandez,M,1967-03-03,2009-03-09,Product,Product Manager,81997.15
+925,Laura,Brooks,M,1998-06-24,2013-01-01,IT,Data Scientist,50405.27
+926,Neil,Morgan,F,1964-12-22,2021-08-02,Customer Support,Support Specialist,50317.45
+927,Kenneth,Ford,F,1984-08-12,2006-11-08,IT,Data Scientist,79725.2
+928,Donna,Benjamin,F,1970-08-26,2007-03-10,Marketing,Marketing Specialist,87781.69
+929,Andrew,Smith,M,1993-11-27,2022-04-07,IT,Data Scientist,109176.79
+930,Jacob,Villanueva,M,2001-07-30,2018-03-31,Marketing,Marketing Specialist,99922.56
+931,Alexis,Villanueva,F,1978-11-29,2005-06-30,IT,Data Scientist,96380.48
+932,Timothy,Phillips,M,1976-10-06,2005-11-23,Marketing,Marketing Specialist,81076.79
+933,Kelly,Garcia,F,1986-10-14,2016-08-20,Product,Product Manager,116229.54
+934,Katrina,Maldonado,M,1995-10-14,2010-05-31,Sales,Sales Executive,40412.77
+935,Anthony,Patterson,M,2002-02-11,2022-08-28,Operations,Operations Manager,116378.04
+936,Tina,Brooks,M,1978-09-04,2008-10-22,Operations,Operations Manager,104802.14
+937,Stephanie,Rodriguez,F,1986-04-07,2006-05-23,Marketing,Marketing Specialist,91116.0
+938,Laura,Powell,M,1965-06-07,2009-08-29,Sales,Sales Executive,69919.31
+939,Matthew,Gibson,M,1990-11-05,2023-09-07,Customer Support,Support Specialist,66139.39
+940,Bernard,Walker,M,1975-03-23,2024-06-03,Product,Product Manager,112257.09
+941,Jasmine,Miller,M,1995-06-22,2011-02-24,Admin,Office Administrator,114668.24
+942,Tammy,Bryant,F,1976-08-06,2018-11-08,Product,Product Manager,52045.82
+943,Robert,Nelson,F,1970-09-18,2021-10-16,Engineering,Software Engineer,61191.93
+944,Edwin,Kim,F,1972-11-16,2007-04-24,Sales,Sales Executive,112005.31
+945,Jose,Powell,F,1991-02-01,2006-07-01,IT,Data Scientist,110678.39
+946,Michael,Wells,M,1971-01-22,2007-06-25,Operations,Operations Manager,66353.24
+947,Kelsey,Jenkins,F,1995-12-07,2015-06-27,IT,Data Scientist,77481.25
+948,Charlotte,Nichols,F,1967-12-20,2020-12-31,Finance,Financial Analyst,69316.74
+949,James,Gray,M,1971-10-01,2020-06-19,Product,Product Manager,65106.07
+950,Troy,Schmidt,F,1998-10-30,2014-12-02,Customer Support,Support Specialist,65042.15
+951,Ashley,Gould,M,1987-06-30,2007-08-15,Operations,Operations Manager,89137.14
+952,Michael,Huffman,F,1995-11-09,2014-12-05,Operations,Operations Manager,83061.72
+953,Dylan,Delgado,M,1978-09-17,2023-03-16,Engineering,Software Engineer,54417.53
+954,Michael,Bell,M,1976-09-10,2019-01-24,Product,Product Manager,101642.25
+955,Darlene,Pena,M,1985-05-23,2020-10-09,Sales,Sales Executive,99128.88
+956,Sonya,Austin,F,1982-10-11,2021-08-03,Product,Product Manager,62855.66
+957,Jessica,Torres,M,1994-09-20,2009-01-04,Customer Support,Support Specialist,46324.73
+958,Daniel,Smith,F,1968-01-12,2015-12-25,Finance,Financial Analyst,55246.14
+959,Mark,Petersen,M,1997-02-17,2024-05-25,Admin,Office Administrator,83214.18
+960,Aaron,Adams,F,1971-01-22,2023-10-12,Sales,Sales Executive,118210.98
+961,Mark,Bentley,M,1977-07-19,2008-09-12,Product,Product Manager,106419.13
+962,Cheryl,Cantu,M,2002-07-07,2022-05-29,Operations,Operations Manager,53835.99
+963,Briana,Mcdowell,M,1990-05-03,2020-01-07,Admin,Office Administrator,101918.78
+964,Christopher,Alexander,F,1992-10-13,2008-08-26,Sales,Sales Executive,72442.52
+965,Mary,Dean,F,1974-11-26,2013-08-23,HR,HR Manager,63708.52
+966,Patrick,Davis,F,1978-11-10,2017-07-02,Customer Support,Support Specialist,108108.04
+967,Cheryl,Moore,M,1998-09-26,2013-05-25,HR,HR Manager,85733.65
+968,Caleb,Anderson,M,1967-03-18,2006-08-22,Sales,Sales Executive,51798.87
+969,Jose,Nicholson,F,1994-04-07,2023-04-24,Engineering,Software Engineer,80463.86
+970,David,Powers,M,1987-12-27,2005-06-16,Engineering,Software Engineer,89517.92
+971,Connie,Smith,F,2002-03-06,2018-09-07,HR,HR Manager,93013.88
+972,Mikayla,Kelly,M,1984-01-27,2013-09-07,IT,Data Scientist,106351.13
+973,John,Mason,M,1991-10-30,2015-03-10,Customer Support,Support Specialist,86464.43
+974,Lisa,Leonard,F,1965-08-04,2013-07-06,Finance,Financial Analyst,73592.46
+975,Kristy,Rogers,F,2000-05-31,2015-07-13,Marketing,Marketing Specialist,100832.65
+976,James,Carpenter,F,1984-03-07,2015-12-19,Customer Support,Support Specialist,56774.58
+977,William,Gonzalez,F,1988-02-07,2012-12-09,Operations,Operations Manager,103850.13
+978,Thomas,Diaz,F,1981-05-24,2005-06-15,Engineering,Software Engineer,61695.6
+979,Richard,Baxter,F,1981-05-06,2023-05-04,Customer Support,Support Specialist,42496.76
+980,Kristy,Green,F,1975-06-27,2011-12-13,Operations,Operations Manager,59552.23
+981,Catherine,Coffey,F,1999-12-06,2018-04-19,Product,Product Manager,78898.51
+982,Kimberly,Little,F,1994-08-24,2010-08-22,Finance,Financial Analyst,113347.36
+983,Dana,Rogers,F,2001-07-22,2015-09-14,IT,Data Scientist,74717.68
+984,Richard,Ward,M,1978-12-30,2025-03-19,Product,Product Manager,112911.14
+985,Janice,Lee,M,1994-06-12,2006-04-02,Operations,Operations Manager,50332.33
+986,Anthony,Smith,F,1984-02-05,2006-03-09,IT,Data Scientist,53730.51
+987,Andrea,Nelson,M,1987-05-15,2022-02-23,HR,HR Manager,104853.71
+988,Christine,Sanders,M,1974-11-08,2013-02-24,Finance,Financial Analyst,97806.55
+989,Charlene,Valdez,F,1974-05-05,2023-07-09,Admin,Office Administrator,99670.96
+990,Richard,Martin,M,1970-12-22,2024-07-27,Sales,Sales Executive,109932.96
+991,Dawn,Wilson,M,1998-10-24,2021-07-31,Engineering,Software Engineer,53914.32
+992,William,Johnson,F,1989-03-20,2007-04-14,Engineering,Software Engineer,91084.81
+993,Regina,Sutton,F,1990-07-10,2020-03-23,Finance,Financial Analyst,69895.58
+994,Nathan,Butler,M,1972-12-08,2024-01-25,Operations,Operations Manager,57013.85
+995,Carolyn,Hooper,F,1973-04-30,2009-10-08,Sales,Sales Executive,44185.94
+996,James,Jackson,M,2001-12-30,2009-01-02,Finance,Financial Analyst,56966.76
+997,Maria,Brady,F,1997-06-30,2023-11-13,Operations,Operations Manager,46601.02
+998,Samantha,Hunter,M,1999-05-30,2010-02-24,Customer Support,Support Specialist,80138.62
+999,Derrick,Hughes,F,1982-12-23,2018-12-05,HR,HR Manager,119989.4
+1000,Christopher,Johnson,M,1989-07-15,2010-10-27,Engineering,Software Engineer,86769.85
