@@ -103,7 +103,7 @@ UPDATE empsal SET
 SELECT * FROM empsal WHERE salary IS NULL;
 
 
--- DISTINCT - give uniquer values;
+-- DISTINCT - give unique values;
 SELECT DISTINCT dept FROM empsal;
 
 SELECT DISTINCT desi FROM empsal;
